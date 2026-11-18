@@ -1,5 +1,5 @@
 {
- "version": 2,
+ "version": 4,
  "categories": [
   {
    "id": "slang",
@@ -5093,6 +5093,1410 @@
    "related": [
     "Head Over Heels",
     "Woo"
+   ]
+  },
+  {
+   "word": "Love",
+   "pos": "noun / verb",
+   "category": "feelings",
+   "definition": "A deep feeling of affection, care and attachment toward someone; also to feel this for someone.",
+   "examples": [
+    "I love the way you make ordinary days feel special."
+   ],
+   "related": [
+    "Romance",
+    "True Love",
+    "Adore"
+   ]
+  },
+  {
+   "word": "Lover",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "A person you are in a romantic or sexual relationship with, or someone who loves something deeply.",
+   "examples": [
+    "The two lovers walked along the beach at sunset."
+   ],
+   "related": [
+    "Beloved",
+    "Paramour"
+   ]
+  },
+  {
+   "word": "Loving",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Showing warmth, care and affection.",
+   "examples": [
+    "She has a kind and loving heart."
+   ],
+   "related": [
+    "Affectionate",
+    "Tender"
+   ]
+  },
+  {
+   "word": "Lovable",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Easy to love; endearing.",
+   "examples": [
+    "His clumsy honesty makes him completely lovable."
+   ],
+   "related": [
+    "Endearing"
+   ]
+  },
+  {
+   "word": "Adoration",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "Deep love and admiration.",
+   "examples": [
+    "He looked at her with pure adoration."
+   ],
+   "related": [
+    "Adore",
+    "Devotion"
+   ]
+  },
+  {
+   "word": "Affectionate",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Readily showing fondness and warmth, often through touch and kind words.",
+   "examples": [
+    "She's very affectionate — always holding his hand."
+   ],
+   "related": [
+    "Affection",
+    "Cuddle"
+   ]
+  },
+  {
+   "word": "Admiration",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "Respect and warm approval for someone's qualities.",
+   "examples": [
+    "Her admiration for his patience grew into love."
+   ],
+   "related": [
+    "Adoration",
+    "Crush"
+   ]
+  },
+  {
+   "word": "Affinity",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "A natural liking for, or sense of connection with, someone.",
+   "examples": [
+    "They felt an instant affinity at the poetry reading."
+   ],
+   "related": [
+    "Kindred Spirit",
+    "Chemistry"
+   ]
+  },
+  {
+   "word": "Attachment",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "An emotional bond that makes you want to stay close to someone.",
+   "examples": [
+    "Their attachment deepened over the long winter."
+   ],
+   "related": [
+    "Secure Attachment",
+    "Bond"
+   ]
+  },
+  {
+   "word": "Attraction",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "The feeling of being drawn to someone, physically or emotionally.",
+   "examples": [
+    "The attraction between them was obvious from across the room."
+   ],
+   "related": [
+    "Chemistry",
+    "Spark",
+    "Magnetism"
+   ]
+  },
+  {
+   "word": "Bashful",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Shy and easily embarrassed, especially around someone you like.",
+   "examples": [
+    "He gave a bashful smile when she complimented his drawing."
+   ],
+   "related": [
+    "Shy",
+    "Blush",
+    "Coy"
+   ]
+  },
+  {
+   "word": "Beguiled",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Charmed or enchanted, sometimes in a slightly deceptive way.",
+   "examples": [
+    "She was beguiled by his stories of faraway places."
+   ],
+   "related": [
+    "Enchanted",
+    "Captivate"
+   ]
+  },
+  {
+   "word": "Bliss",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "Perfect happiness and joy.",
+   "examples": [
+    "Lazy Sunday mornings together were pure bliss."
+   ],
+   "related": [
+    "Blissful",
+    "Euphoria"
+   ]
+  },
+  {
+   "word": "Blissful",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Extremely happy; full of joy.",
+   "examples": [
+    "They spent a blissful week by the lake."
+   ],
+   "related": [
+    "Bliss",
+    "Honeymoon Phase"
+   ]
+  },
+  {
+   "word": "Blush",
+   "pos": "verb / noun",
+   "category": "feelings",
+   "definition": "To turn pink in the face from embarrassment or pleasure, often around a crush.",
+   "examples": [
+    "She blushed when he said her name."
+   ],
+   "related": [
+    "Bashful",
+    "Flustered"
+   ]
+  },
+  {
+   "word": "Bond",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "A close emotional connection between people.",
+   "examples": [
+    "Years of letters built an unbreakable bond."
+   ],
+   "related": [
+    "Connection",
+    "Attachment"
+   ]
+  },
+  {
+   "word": "Captivated",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Completely charmed and fascinated by someone.",
+   "examples": [
+    "He was captivated by her voice."
+   ],
+   "related": [
+    "Captivate",
+    "Spellbound"
+   ]
+  },
+  {
+   "word": "Charmed",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Pleased and delighted by someone's charm.",
+   "examples": [
+    "I was utterly charmed by his old-fashioned manners."
+   ],
+   "related": [
+    "Charm",
+    "Enchanted"
+   ]
+  },
+  {
+   "word": "Closeness",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "A feeling of emotional intimacy and familiarity.",
+   "examples": [
+    "Cooking together brought a new closeness to their relationship."
+   ],
+   "related": [
+    "Intimacy",
+    "Bond"
+   ]
+  },
+  {
+   "word": "Commitment",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "Dedication to a person or relationship over time.",
+   "examples": [
+    "Their commitment was tested by distance but never broke."
+   ],
+   "related": [
+    "Committed",
+    "Devotion"
+   ]
+  },
+  {
+   "word": "Companionship",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "The comfort and enjoyment of having someone's company.",
+   "examples": [
+    "In their eighties, they treasured each other's companionship."
+   ],
+   "related": [
+    "Kindred Spirit",
+    "Comfort"
+   ]
+  },
+  {
+   "word": "Comfort",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "The ease and security felt with someone you love.",
+   "examples": [
+    "Her presence was a comfort after a long day."
+   ],
+   "related": [
+    "Companionship",
+    "Tender"
+   ]
+  },
+  {
+   "word": "Connection",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "A feeling of understanding and closeness between people.",
+   "examples": [
+    "They felt a real connection from the first conversation."
+   ],
+   "related": [
+    "Chemistry",
+    "Bond"
+   ]
+  },
+  {
+   "word": "Crave",
+   "pos": "verb",
+   "category": "feelings",
+   "definition": "To want something or someone very strongly.",
+   "examples": [
+    "I crave your company when you're away."
+   ],
+   "related": [
+    "Longing",
+    "Desire"
+   ]
+  },
+  {
+   "word": "Desire",
+   "pos": "noun / verb",
+   "category": "feelings",
+   "definition": "A strong feeling of wanting someone or something.",
+   "examples": [
+    "Desire flickered in his eyes when she smiled."
+   ],
+   "related": [
+    "Passion",
+    "Attraction"
+   ]
+  },
+  {
+   "word": "Dote",
+   "pos": "verb",
+   "category": "feelings",
+   "definition": "To show excessive love and attention to someone.",
+   "examples": [
+    "He dotes on her, bringing tea every morning."
+   ],
+   "related": [
+    "Doting",
+    "Adore"
+   ]
+  },
+  {
+   "word": "Doting",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Extremely and openly loving, often to an indulgent degree.",
+   "examples": [
+    "Her doting husband planned every birthday weeks in advance."
+   ],
+   "related": [
+    "Dote",
+    "Devotion"
+   ]
+  },
+  {
+   "word": "Emotionally Available",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Able and willing to share feelings and form a close connection.",
+   "examples": [
+    "After therapy, he finally felt emotionally available."
+   ],
+   "related": [
+    "Emotionally Unavailable",
+    "Green Flag"
+   ]
+  },
+  {
+   "word": "Emotional Intimacy",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "Closeness built by sharing your true thoughts, fears and feelings.",
+   "examples": [
+    "Late-night honesty created real emotional intimacy."
+   ],
+   "related": [
+    "Intimacy",
+    "Vulnerability"
+   ]
+  },
+  {
+   "word": "Empathy",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "The ability to understand and share another person's feelings.",
+   "examples": [
+    "His empathy made her feel truly heard."
+   ],
+   "related": [
+    "Emotional Intelligence",
+    "Active Listening"
+   ]
+  },
+  {
+   "word": "Endearing",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Inspiring affection; charmingly lovable.",
+   "examples": [
+    "Her habit of humming while she reads is endearing."
+   ],
+   "related": [
+    "Lovable"
+   ]
+  },
+  {
+   "word": "Enthralled",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Completely captivated and fascinated.",
+   "examples": [
+    "The audience was enthralled by the love story."
+   ],
+   "related": [
+    "Captivated",
+    "Spellbound"
+   ]
+  },
+  {
+   "word": "Fall in Love",
+   "pos": "phrase",
+   "category": "feelings",
+   "definition": "To begin to feel romantic love for someone.",
+   "examples": [
+    "They fell in love over a shared umbrella."
+   ],
+   "related": [
+    "Falling For",
+    "Head Over Heels"
+   ]
+  },
+  {
+   "word": "Fancy",
+   "pos": "verb",
+   "category": "feelings",
+   "definition": "Mainly British: to find someone attractive or have a crush on them.",
+   "examples": [
+    "I think he fancies you."
+   ],
+   "related": [
+    "Crush",
+    "Sweet On"
+   ]
+  },
+  {
+   "word": "Fascination",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "A strong interest in and attraction to someone.",
+   "examples": [
+    "His fascination with her grew with every conversation."
+   ],
+   "related": [
+    "Infatuation",
+    "Captivated"
+   ]
+  },
+  {
+   "word": "Feelings",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "Romantic emotions toward someone, as in 'have feelings for'.",
+   "examples": [
+    "I've had feelings for you for a long time."
+   ],
+   "related": [
+    "Catch Feelings",
+    "Crush"
+   ]
+  },
+  {
+   "word": "Flustered",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Nervous and confused, often around someone you're attracted to.",
+   "examples": [
+    "She got flustered and forgot her own phone number."
+   ],
+   "related": [
+    "Blush",
+    "Bashful"
+   ]
+  },
+  {
+   "word": "Fond",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Having affection or liking for someone.",
+   "examples": [
+    "I've grown very fond of you."
+   ],
+   "related": [
+    "Fondness",
+    "Affection"
+   ]
+  },
+  {
+   "word": "Fondness",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "Warm affection or liking.",
+   "examples": [
+    "She remembers her first boyfriend with fondness."
+   ],
+   "related": [
+    "Fond",
+    "Affection"
+   ]
+  },
+  {
+   "word": "Gaga",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Informal: wildly infatuated.",
+   "examples": [
+    "He's gone completely gaga over the new girl."
+   ],
+   "related": [
+    "Smitten",
+    "Besotted"
+   ]
+  },
+  {
+   "word": "Giddy",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Lightheaded with excitement and happiness.",
+   "examples": [
+    "She felt giddy after their first kiss."
+   ],
+   "related": [
+    "Butterflies",
+    "Euphoria"
+   ]
+  },
+  {
+   "word": "Heart",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "The centre of emotion and love; often used to mean love itself.",
+   "examples": [
+    "You have my heart."
+   ],
+   "related": [
+    "Heartache",
+    "Steal Someone's Heart"
+   ]
+  },
+  {
+   "word": "Heartache",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "Emotional pain, especially from love.",
+   "examples": [
+    "Time slowly eased her heartache."
+   ],
+   "related": [
+    "Heartbreak",
+    "Lovelorn"
+   ]
+  },
+  {
+   "word": "Heartbroken",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Overwhelmed with sadness after a loss of love.",
+   "examples": [
+    "He was heartbroken when she moved away."
+   ],
+   "related": [
+    "Heartbreak",
+    "Breakup"
+   ]
+  },
+  {
+   "word": "Heartsick",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Deeply sad or longing, especially for a lost love.",
+   "examples": [
+    "Heartsick, she read his old letters again."
+   ],
+   "related": [
+    "Lovesick",
+    "Longing"
+   ]
+  },
+  {
+   "word": "Heart Skips a Beat",
+   "pos": "phrase",
+   "category": "feelings",
+   "definition": "A sudden flutter of excitement, as when you see someone you love.",
+   "examples": [
+    "My heart skips a beat every time you walk in."
+   ],
+   "related": [
+    "Butterflies",
+    "Weak in the Knees"
+   ]
+  },
+  {
+   "word": "Heartwarming",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Causing feelings of happiness and tenderness.",
+   "examples": [
+    "Their reunion was truly heartwarming."
+   ],
+   "related": [
+    "Heartfelt",
+    "Tender"
+   ]
+  },
+  {
+   "word": "Hung Up On",
+   "pos": "phrase",
+   "category": "feelings",
+   "definition": "Unable to stop thinking about someone, especially an ex or crush.",
+   "examples": [
+    "She's still hung up on her ex."
+   ],
+   "related": [
+    "Pine",
+    "Old Flame"
+   ]
+  },
+  {
+   "word": "Idolize",
+   "pos": "verb",
+   "category": "feelings",
+   "definition": "To admire or love someone excessively, as if they were perfect.",
+   "examples": [
+    "Don't idolize him — he's human too."
+   ],
+   "related": [
+    "Infatuation",
+    "Adoration"
+   ]
+  },
+  {
+   "word": "Jealous",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Feeling threatened by a possible rival for someone's affection.",
+   "examples": [
+    "He got jealous when she danced with her colleague."
+   ],
+   "related": [
+    "Jealousy",
+    "Possessive"
+   ]
+  },
+  {
+   "word": "Keen",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Mainly British: eager or interested, as in 'keen on someone'.",
+   "examples": [
+    "She's quite keen on the new guy at work."
+   ],
+   "related": [
+    "Fancy",
+    "Crush"
+   ]
+  },
+  {
+   "word": "Lonely",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Sad because you lack company or connection.",
+   "examples": [
+    "Without her, the flat felt lonely."
+   ],
+   "related": [
+    "Loneliness",
+    "Longing"
+   ]
+  },
+  {
+   "word": "Loneliness",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "Sadness from being alone or feeling disconnected.",
+   "examples": [
+    "Long-distance love can bring moments of loneliness."
+   ],
+   "related": [
+    "Lonely",
+    "Long-Distance Relationship"
+   ]
+  },
+  {
+   "word": "Loyal",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Faithful and committed to someone.",
+   "examples": [
+    "She's fiercely loyal to the people she loves."
+   ],
+   "related": [
+    "Loyalty",
+    "Devotion"
+   ]
+  },
+  {
+   "word": "Loyalty",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "Faithfulness and steady support.",
+   "examples": [
+    "Loyalty matters more to him than grand gestures."
+   ],
+   "related": [
+    "Loyal",
+    "Trust"
+   ]
+  },
+  {
+   "word": "Lust",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "Strong physical desire for someone.",
+   "examples": [
+    "Was it love or just lust? Time would tell."
+   ],
+   "related": [
+    "Desire",
+    "Passion"
+   ]
+  },
+  {
+   "word": "Magnetism",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "A powerful personal attractiveness that draws others in.",
+   "examples": [
+    "His quiet magnetism filled the room."
+   ],
+   "related": [
+    "Charisma",
+    "Attraction"
+   ]
+  },
+  {
+   "word": "Melt",
+   "pos": "verb",
+   "category": "feelings",
+   "definition": "To be overwhelmed with tender feelings, as in 'you melt my heart'.",
+   "examples": [
+    "That smile makes me melt."
+   ],
+   "related": [
+    "Weak in the Knees",
+    "Swoon"
+   ]
+  },
+  {
+   "word": "Mesmerized",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Held spellbound by someone.",
+   "examples": [
+    "He was mesmerized by her dancing."
+   ],
+   "related": [
+    "Spellbound",
+    "Enthralled"
+   ]
+  },
+  {
+   "word": "Miss",
+   "pos": "verb",
+   "category": "feelings",
+   "definition": "To feel sad because someone is not with you.",
+   "examples": [
+    "I miss you more every day."
+   ],
+   "related": [
+    "Longing",
+    "Long-Distance Relationship"
+   ]
+  },
+  {
+   "word": "Nostalgia",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "A sentimental longing for happy times in the past.",
+   "examples": [
+    "Their old song filled them with nostalgia."
+   ],
+   "related": [
+    "Sentimental",
+    "Old Flame"
+   ]
+  },
+  {
+   "word": "Obsessed",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Unable to stop thinking about someone or something.",
+   "examples": [
+    "She's obsessed with her new boyfriend."
+   ],
+   "related": [
+    "Obsession",
+    "Limerence"
+   ]
+  },
+  {
+   "word": "Obsession",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "An all-consuming, often unhealthy preoccupation with someone.",
+   "examples": [
+    "What began as a crush turned into an obsession."
+   ],
+   "related": [
+    "Obsessed",
+    "Limerence"
+   ]
+  },
+  {
+   "word": "Over the Moon",
+   "pos": "phrase",
+   "category": "feelings",
+   "definition": "Extremely happy and delighted.",
+   "examples": [
+    "She was over the moon when he proposed."
+   ],
+   "related": [
+    "Euphoria",
+    "Giddy"
+   ]
+  },
+  {
+   "word": "Pang",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "A sudden sharp feeling of emotion, such as jealousy or longing.",
+   "examples": [
+    "She felt a pang of jealousy seeing them together."
+   ],
+   "related": [
+    "Jealous",
+    "Longing"
+   ]
+  },
+  {
+   "word": "Passionate",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Showing strong, intense feelings or desire.",
+   "examples": [
+    "They shared a passionate kiss."
+   ],
+   "related": [
+    "Passion",
+    "Ardent"
+   ]
+  },
+  {
+   "word": "Protective",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Wanting to keep someone safe from harm.",
+   "examples": [
+    "He's sweetly protective, always walking on the street side."
+   ],
+   "related": [
+    "Possessive",
+    "Chivalry"
+   ]
+  },
+  {
+   "word": "Reassurance",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "Words or actions that remove someone's doubts or fears.",
+   "examples": [
+    "A simple 'I'm here' gave her the reassurance she needed."
+   ],
+   "related": [
+    "Anxious Attachment",
+    "Trust"
+   ]
+  },
+  {
+   "word": "Reciprocate",
+   "pos": "verb",
+   "category": "feelings",
+   "definition": "To return someone's feelings or actions.",
+   "examples": [
+    "He was thrilled when she reciprocated his feelings."
+   ],
+   "related": [
+    "Mutual",
+    "Reciprocity"
+   ]
+  },
+  {
+   "word": "Romantic",
+   "pos": "adjective / noun",
+   "category": "feelings",
+   "definition": "Relating to love; or a person who is sentimental about love.",
+   "examples": [
+    "He planned a romantic picnic under the stars."
+   ],
+   "related": [
+    "Romance",
+    "Hopeless Romantic"
+   ]
+  },
+  {
+   "word": "Sappy",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Overly sentimental or soppy.",
+   "examples": [
+    "I know it's sappy, but I wrote you a poem."
+   ],
+   "related": [
+    "Mushy",
+    "Soppy"
+   ]
+  },
+  {
+   "word": "Soppy",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Mainly British: foolishly sentimental.",
+   "examples": [
+    "Don't get all soppy on me now."
+   ],
+   "related": [
+    "Sappy",
+    "Mushy"
+   ]
+  },
+  {
+   "word": "Sensual",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Relating to physical pleasure and the senses.",
+   "examples": [
+    "The dance was slow and sensual."
+   ],
+   "related": [
+    "Passion",
+    "Intimacy"
+   ]
+  },
+  {
+   "word": "Shy",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Nervous or timid around other people, especially someone you like.",
+   "examples": [
+    "He was too shy to ask her to dance."
+   ],
+   "related": [
+    "Bashful",
+    "Wallflower"
+   ]
+  },
+  {
+   "word": "Sincere",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Genuine and honest in feeling.",
+   "examples": [
+    "His apology was sincere."
+   ],
+   "related": [
+    "Heartfelt",
+    "Trust"
+   ]
+  },
+  {
+   "word": "Soft Spot",
+   "pos": "phrase",
+   "category": "feelings",
+   "definition": "A fondness for someone, often despite yourself.",
+   "examples": [
+    "She's always had a soft spot for him."
+   ],
+   "related": [
+    "Fond",
+    "Crush"
+   ]
+  },
+  {
+   "word": "Soulful",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Expressing deep feeling.",
+   "examples": [
+    "He gave her a long, soulful look."
+   ],
+   "related": [
+    "Heartfelt",
+    "Lingering Gaze"
+   ]
+  },
+  {
+   "word": "Soul Tie",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "A deep spiritual or emotional bond felt with someone, especially after intimacy.",
+   "examples": [
+    "Even after the breakup, she felt a soul tie to him."
+   ],
+   "related": [
+    "Soulmate",
+    "Bond"
+   ]
+  },
+  {
+   "word": "Sparks Fly",
+   "pos": "phrase",
+   "category": "feelings",
+   "definition": "When strong attraction or chemistry is obvious between two people.",
+   "examples": [
+    "Sparks flew the moment they met."
+   ],
+   "related": [
+    "Spark",
+    "Chemistry"
+   ]
+  },
+  {
+   "word": "Starstruck",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Overwhelmed and awed, especially by someone famous or very attractive.",
+   "examples": [
+    "He was so starstruck he could barely say hello."
+   ],
+   "related": [
+    "Dazzled",
+    "Smitten"
+   ]
+  },
+  {
+   "word": "Dazzled",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Overwhelmed by someone's beauty, charm or brilliance.",
+   "examples": [
+    "She was dazzled by his confidence on stage."
+   ],
+   "related": [
+    "Starstruck",
+    "Captivated"
+   ]
+  },
+  {
+   "word": "Sweet On",
+   "pos": "phrase",
+   "category": "feelings",
+   "definition": "Old-fashioned: having a crush on someone.",
+   "examples": [
+    "I think the baker's son is sweet on you."
+   ],
+   "related": [
+    "Crush",
+    "Fancy"
+   ]
+  },
+  {
+   "word": "Taken",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Already in a relationship; not single.",
+   "examples": [
+    "Sorry, he's taken."
+   ],
+   "related": [
+    "Exclusive",
+    "Committed"
+   ]
+  },
+  {
+   "word": "Tingle",
+   "pos": "noun / verb",
+   "category": "feelings",
+   "definition": "A thrilling, prickly sensation of excitement, as from someone's touch.",
+   "examples": [
+    "His touch sent a tingle down her spine."
+   ],
+   "related": [
+    "Butterflies",
+    "Spark"
+   ]
+  },
+  {
+   "word": "Carry a Torch",
+   "pos": "phrase",
+   "category": "feelings",
+   "definition": "To keep loving someone who doesn't love you back or is no longer with you.",
+   "examples": [
+    "He's carried a torch for her since school."
+   ],
+   "related": [
+    "Unrequited Love",
+    "Pine"
+   ]
+  },
+  {
+   "word": "Torn",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Unable to decide between two people or choices.",
+   "examples": [
+    "She was torn between her old flame and her new love."
+   ],
+   "related": [
+    "Love Triangle"
+   ]
+  },
+  {
+   "word": "Touched",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Moved emotionally by a kind act.",
+   "examples": [
+    "I'm so touched that you remembered."
+   ],
+   "related": [
+    "Heartwarming",
+    "Sentimental"
+   ]
+  },
+  {
+   "word": "Vulnerable",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Open to emotional hurt; willing to show your true feelings.",
+   "examples": [
+    "Saying 'I love you' first made him feel vulnerable."
+   ],
+   "related": [
+    "Vulnerability",
+    "Emotional Intimacy"
+   ]
+  },
+  {
+   "word": "Vulnerability",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "The courage to show your real feelings despite the risk of hurt.",
+   "examples": [
+    "Vulnerability is the foundation of real intimacy."
+   ],
+   "related": [
+    "Vulnerable",
+    "Emotional Intimacy"
+   ]
+  },
+  {
+   "word": "Warmth",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "Kindness, affection and friendliness.",
+   "examples": [
+    "The warmth in her voice made him feel at home."
+   ],
+   "related": [
+    "Affection",
+    "Tender"
+   ]
+  },
+  {
+   "word": "Wistful",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Full of gentle, melancholy longing.",
+   "examples": [
+    "She gave a wistful smile at the mention of Paris."
+   ],
+   "related": [
+    "Nostalgia",
+    "Longing"
+   ]
+  },
+  {
+   "word": "Warm Fuzzies",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "Informal: a pleasant feeling of happiness and affection.",
+   "examples": [
+    "His text gave me the warm fuzzies."
+   ],
+   "related": [
+    "Heartwarming",
+    "Butterflies"
+   ]
+  },
+  {
+   "word": "Wholesome",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Sweet, kind and good-hearted.",
+   "examples": [
+    "Their relationship is so wholesome."
+   ],
+   "related": [
+    "Heartwarming",
+    "Green Flag"
+   ]
+  },
+  {
+   "word": "Wild About",
+   "pos": "phrase",
+   "category": "feelings",
+   "definition": "Extremely enthusiastic about or in love with someone.",
+   "examples": [
+    "He's wild about her."
+   ],
+   "related": [
+    "Smitten",
+    "Head Over Heels"
+   ]
+  },
+  {
+   "word": "Wrapped Around Your Finger",
+   "pos": "phrase",
+   "category": "feelings",
+   "definition": "Completely under someone's influence, willing to do anything for them.",
+   "examples": [
+    "She has him wrapped around her little finger."
+   ],
+   "related": [
+    "Simp",
+    "Doting"
+   ]
+  },
+  {
+   "word": "Calf Love",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "Mainly British: an intense but short-lived teenage romance; puppy love.",
+   "examples": [
+    "It was only calf love, but it felt like everything at fifteen."
+   ],
+   "related": [
+    "Puppy Love",
+    "First Love"
+   ]
+  },
+  {
+   "word": "Care",
+   "pos": "verb / noun",
+   "category": "feelings",
+   "definition": "To feel affection and concern for someone.",
+   "examples": [
+    "I care about you more than I can say."
+   ],
+   "related": [
+    "Cherish",
+    "Affection"
+   ]
+  },
+  {
+   "word": "Belonging",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "The feeling of being accepted and at home with someone.",
+   "examples": [
+    "With him she finally felt a sense of belonging."
+   ],
+   "related": [
+    "Comfort",
+    "Connection"
+   ]
+  },
+  {
+   "word": "Attentive",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Paying close, caring attention to someone's needs.",
+   "examples": [
+    "He's so attentive — he noticed I was cold before I said anything."
+   ],
+   "related": [
+    "Active Listening",
+    "Green Flag"
+   ]
+  },
+  {
+   "word": "Thoughtful",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Showing consideration for others' needs and feelings.",
+   "examples": [
+    "What a thoughtful gift."
+   ],
+   "related": [
+    "Attentive",
+    "Green Flag"
+   ]
+  },
+  {
+   "word": "Smitten Kitten",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "Playful slang for someone who is very obviously infatuated.",
+   "examples": [
+    "One date and she's a total smitten kitten."
+   ],
+   "related": [
+    "Smitten",
+    "Giddy"
+   ]
+  },
+  {
+   "word": "Exhilaration",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "A feeling of intense excitement and happiness.",
+   "examples": [
+    "The exhilaration of their first kiss stayed with her for days."
+   ],
+   "related": [
+    "Euphoria",
+    "Giddy"
+   ]
+  },
+  {
+   "word": "Lovesick Puppy",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "Someone who is mopey and helplessly infatuated.",
+   "examples": [
+    "He's been a lovesick puppy since she left."
+   ],
+   "related": [
+    "Lovesick",
+    "Down Bad"
+   ]
+  },
+  {
+   "word": "Heart Flutter",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "A brief, excited quickening of the heart caused by someone you like.",
+   "examples": [
+    "Her laugh gave him a heart flutter."
+   ],
+   "related": [
+    "Heart Skips a Beat",
+    "Butterflies"
+   ]
+  },
+  {
+   "word": "Love Sickness",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "The physical and emotional distress caused by intense or unreturned love.",
+   "examples": [
+    "Love sickness kept him awake every night."
+   ],
+   "related": [
+    "Lovesick",
+    "Limerence"
+   ]
+  },
+  {
+   "word": "Puppy Crush",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "A sweet, innocent crush, usually on someone you hardly know.",
+   "examples": [
+    "She has a puppy crush on the lifeguard."
+   ],
+   "related": [
+    "Puppy Love",
+    "Crush"
+   ]
+  },
+  {
+   "word": "Twin Souls",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "Two people believed to share the same soul or deep spiritual likeness.",
+   "examples": [
+    "They describe themselves as twin souls."
+   ],
+   "related": [
+    "Twin Flame",
+    "Soulmate"
+   ]
+  },
+  {
+   "word": "Lovelight",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "Poetic: the shine in someone's eyes when they are in love.",
+   "examples": [
+    "There was a lovelight in her eyes when she talked about him."
+   ],
+   "related": [
+    "Starry-Eyed",
+    "Radiant"
    ]
   }
  ]
