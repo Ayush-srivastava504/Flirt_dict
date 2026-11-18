@@ -45,6 +45,11 @@
    "id": "world",
    "label": "French & World Words",
    "description": "Romantic words borrowed from French and languages around the world."
+  },
+  {
+   "id": "weddings",
+   "label": "Weddings & Marriage",
+   "description": "Proposals, ceremonies and traditions from around the world."
   }
  ],
  "entries": [
@@ -6497,6 +6502,1267 @@
    "related": [
     "Starry-Eyed",
     "Radiant"
+   ]
+  },
+  {
+   "word": "Dating",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "Going on romantic outings with someone to get to know them as a possible partner.",
+   "examples": [
+    "Dating in a new city can be exciting and exhausting."
+   ],
+   "related": [
+    "Date",
+    "First Date"
+   ]
+  },
+  {
+   "word": "Date",
+   "pos": "noun / verb",
+   "category": "stages",
+   "definition": "A planned romantic outing; also the person you go out with, or to go out with someone regularly.",
+   "examples": [
+    "They've been dating since March."
+   ],
+   "related": [
+    "Dating",
+    "Date Night"
+   ]
+  },
+  {
+   "word": "Girlfriend",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A woman or girl someone is in a romantic relationship with.",
+   "examples": [
+    "He introduced her as his girlfriend for the first time."
+   ],
+   "related": [
+    "Boyfriend",
+    "Partner"
+   ]
+  },
+  {
+   "word": "Boyfriend",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A man or boy someone is in a romantic relationship with.",
+   "examples": [
+    "Her boyfriend surprised her at the airport."
+   ],
+   "related": [
+    "Girlfriend",
+    "Partner"
+   ]
+  },
+  {
+   "word": "Partner",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A person you share a committed romantic relationship with; gender-neutral.",
+   "examples": [
+    "My partner and I are moving to Pune."
+   ],
+   "related": [
+    "Significant Other",
+    "Spouse"
+   ]
+  },
+  {
+   "word": "Spouse",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A husband or wife.",
+   "examples": [
+    "Spouses are welcome at the company dinner."
+   ],
+   "related": [
+    "Husband",
+    "Wife"
+   ]
+  },
+  {
+   "word": "Husband",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A married man, in relation to his spouse.",
+   "examples": [
+    "Her husband cooks every Sunday."
+   ],
+   "related": [
+    "Wife",
+    "Spouse"
+   ]
+  },
+  {
+   "word": "Wife",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A married woman, in relation to her spouse.",
+   "examples": [
+    "His wife runs her own design studio."
+   ],
+   "related": [
+    "Husband",
+    "Spouse"
+   ]
+  },
+  {
+   "word": "Couple",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "Two people in a romantic relationship.",
+   "examples": [
+    "They're the cutest couple in our building."
+   ],
+   "related": [
+    "Lovebirds",
+    "Power Couple"
+   ]
+  },
+  {
+   "word": "Single",
+   "pos": "adjective",
+   "category": "stages",
+   "definition": "Not in a romantic relationship.",
+   "examples": [
+    "She's been happily single for two years."
+   ],
+   "related": [
+    "Taken",
+    "Dating Pool"
+   ]
+  },
+  {
+   "word": "Going Out",
+   "pos": "phrase",
+   "category": "stages",
+   "definition": "Being in a romantic relationship; dating.",
+   "examples": [
+    "How long have you two been going out?"
+   ],
+   "related": [
+    "Dating",
+    "Exclusive"
+   ]
+  },
+  {
+   "word": "Seeing Someone",
+   "pos": "phrase",
+   "category": "stages",
+   "definition": "Dating someone, often casually or early on.",
+   "examples": [
+    "I'm seeing someone, but it's still new."
+   ],
+   "related": [
+    "Talking Stage",
+    "Dating"
+   ]
+  },
+  {
+   "word": "Steady",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "Old-fashioned: a regular boyfriend or girlfriend.",
+   "examples": [
+    "Is she your steady now?"
+   ],
+   "related": [
+    "Going Steady",
+    "Exclusive"
+   ]
+  },
+  {
+   "word": "Fling",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A short, casual romantic relationship.",
+   "examples": [
+    "It was just a summer fling."
+   ],
+   "related": [
+    "Dalliance",
+    "Holiday Romance"
+   ]
+  },
+  {
+   "word": "Affair",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A romantic or sexual relationship, especially a secret one outside a committed relationship.",
+   "examples": [
+    "The scandal began with a secret affair."
+   ],
+   "related": [
+    "Liaison",
+    "Infidelity"
+   ]
+  },
+  {
+   "word": "Love Affair",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "An intense romantic relationship.",
+   "examples": [
+    "Their love affair inspired a novel."
+   ],
+   "related": [
+    "Affair",
+    "Romance"
+   ]
+  },
+  {
+   "word": "Infidelity",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "Being unfaithful to a partner.",
+   "examples": [
+    "Infidelity ended their marriage."
+   ],
+   "related": [
+    "Cheat",
+    "Affair"
+   ]
+  },
+  {
+   "word": "Cheat",
+   "pos": "verb",
+   "category": "stages",
+   "definition": "To be unfaithful to a partner.",
+   "examples": [
+    "She would never cheat on him."
+   ],
+   "related": [
+    "Infidelity",
+    "Two-Timing"
+   ]
+  },
+  {
+   "word": "Two-Timing",
+   "pos": "adjective",
+   "category": "stages",
+   "definition": "Secretly dating two people at once.",
+   "examples": [
+    "The two-timing liar got caught at the cinema."
+   ],
+   "related": [
+    "Cheat",
+    "Red Flag"
+   ]
+  },
+  {
+   "word": "Open Relationship",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A committed relationship in which both partners agree they may see other people.",
+   "examples": [
+    "Their open relationship has clear rules."
+   ],
+   "related": [
+    "Polyamory",
+    "Monogamy"
+   ]
+  },
+  {
+   "word": "Throuple",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A committed romantic relationship among three people.",
+   "examples": [
+    "The throuple share a house and a dog."
+   ],
+   "related": [
+    "Polyamory",
+    "Open Relationship"
+   ]
+  },
+  {
+   "word": "Commitment-Phobe",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "Someone who avoids serious relationships out of fear of commitment.",
+   "examples": [
+    "He's a classic commitment-phobe — never past three months."
+   ],
+   "related": [
+    "Avoidant Attachment",
+    "Commitment Issues"
+   ]
+  },
+  {
+   "word": "Commitment Issues",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "Difficulty making or keeping long-term romantic commitments.",
+   "examples": [
+    "Her commitment issues made every future plan feel scary."
+   ],
+   "related": [
+    "Commitment-Phobe",
+    "Emotionally Unavailable"
+   ]
+  },
+  {
+   "word": "Cold Feet",
+   "pos": "phrase",
+   "category": "stages",
+   "definition": "Sudden nervousness before a big commitment, such as a wedding.",
+   "examples": [
+    "He got cold feet a week before the wedding."
+   ],
+   "related": [
+    "Engagement",
+    "Commitment Issues"
+   ]
+  },
+  {
+   "word": "Jilt",
+   "pos": "verb",
+   "category": "stages",
+   "definition": "To suddenly reject or abandon a lover, especially before a wedding.",
+   "examples": [
+    "Jilted at the altar, she went on the honeymoon alone."
+   ],
+   "related": [
+    "Left at the Altar",
+    "Dumped"
+   ]
+  },
+  {
+   "word": "Left at the Altar",
+   "pos": "phrase",
+   "category": "stages",
+   "definition": "Abandoned by your partner on your wedding day.",
+   "examples": [
+    "In the film, the groom is left at the altar."
+   ],
+   "related": [
+    "Jilt",
+    "Cold Feet"
+   ]
+  },
+  {
+   "word": "Dumped",
+   "pos": "adjective",
+   "category": "stages",
+   "definition": "Having been broken up with.",
+   "examples": [
+    "I got dumped by text."
+   ],
+   "related": [
+    "Breakup",
+    "Rebound"
+   ]
+  },
+  {
+   "word": "Get Back Together",
+   "pos": "phrase",
+   "category": "stages",
+   "definition": "To resume a relationship after a breakup.",
+   "examples": [
+    "After a year apart, they got back together."
+   ],
+   "related": [
+    "On-Again, Off-Again",
+    "Reconcile"
+   ]
+  },
+  {
+   "word": "Reconcile",
+   "pos": "verb",
+   "category": "stages",
+   "definition": "To restore a relationship after a disagreement or separation.",
+   "examples": [
+    "They reconciled after a long talk."
+   ],
+   "related": [
+    "Get Back Together",
+    "Make Up"
+   ]
+  },
+  {
+   "word": "Make Up",
+   "pos": "verb",
+   "category": "stages",
+   "definition": "To become friends or lovers again after an argument.",
+   "examples": [
+    "They always make up before bed."
+   ],
+   "related": [
+    "Reconcile"
+   ]
+  },
+  {
+   "word": "Separation",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A period when a couple lives apart, often before deciding whether to divorce.",
+   "examples": [
+    "Their separation gave them time to think."
+   ],
+   "related": [
+    "Divorce",
+    "Breakup"
+   ]
+  },
+  {
+   "word": "Divorce",
+   "pos": "noun / verb",
+   "category": "stages",
+   "definition": "The legal ending of a marriage.",
+   "examples": [
+    "Their divorce was surprisingly friendly."
+   ],
+   "related": [
+    "Separation",
+    "Conscious Uncoupling"
+   ]
+  },
+  {
+   "word": "Childhood Sweethearts",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A couple who fell in love as children or teenagers.",
+   "examples": [
+    "They were childhood sweethearts who married at twenty-five."
+   ],
+   "related": [
+    "First Love",
+    "Puppy Love"
+   ]
+  },
+  {
+   "word": "Pen Pal",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A friend you write letters to, sometimes leading to romance.",
+   "examples": [
+    "Her grandparents started as pen pals."
+   ],
+   "related": [
+    "Long-Distance Relationship",
+    "Love Note"
+   ]
+  },
+  {
+   "word": "Moving In Together",
+   "pos": "phrase",
+   "category": "stages",
+   "definition": "Starting to live in the same home as your partner.",
+   "examples": [
+    "Moving in together taught them a lot about each other."
+   ],
+   "related": [
+    "Committed",
+    "Nesting"
+   ]
+  },
+  {
+   "word": "Domestic Bliss",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "Happiness found in a shared home life.",
+   "examples": [
+    "Weekend pancakes and crosswords: domestic bliss."
+   ],
+   "related": [
+    "Nesting",
+    "Moving In Together"
+   ]
+  },
+  {
+   "word": "In-Laws",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "The relatives of your spouse.",
+   "examples": [
+    "Meeting the in-laws went better than expected."
+   ],
+   "related": [
+    "Meeting the Parents",
+    "Spouse"
+   ]
+  },
+  {
+   "word": "Plus-One",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A guest you bring along to an event, often a date.",
+   "examples": [
+    "Will you be my plus-one at the wedding?"
+   ],
+   "related": [
+    "Date",
+    "Wedding"
+   ]
+  },
+  {
+   "word": "Dating Pool",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "The group of people available to date in a place or community.",
+   "examples": [
+    "The dating pool in a small town is tiny."
+   ],
+   "related": [
+    "Single",
+    "Dating App"
+   ]
+  },
+  {
+   "word": "Dating App",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A smartphone app for meeting potential romantic partners.",
+   "examples": [
+    "They met on a dating app during lockdown."
+   ],
+   "related": [
+    "Swipe Right",
+    "Match"
+   ]
+  },
+  {
+   "word": "Setup",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "An arranged introduction or date between two people.",
+   "examples": [
+    "The setup by her cousin actually worked."
+   ],
+   "related": [
+    "Blind Date",
+    "Matchmaker"
+   ]
+  },
+  {
+   "word": "Matchmaker",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "Someone who introduces people in the hope they'll form a relationship.",
+   "examples": [
+    "Her aunt is the family's unofficial matchmaker."
+   ],
+   "related": [
+    "Matchmaking",
+    "Rishta"
+   ]
+  },
+  {
+   "word": "Matchmaking",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "The practice of arranging romantic introductions.",
+   "examples": [
+    "Matchmaking apps now use compatibility quizzes."
+   ],
+   "related": [
+    "Matchmaker",
+    "Arranged Marriage"
+   ]
+  },
+  {
+   "word": "Holiday Romance",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A brief romance during a holiday or trip.",
+   "examples": [
+    "Their holiday romance in Goa turned into marriage."
+   ],
+   "related": [
+    "Fling",
+    "Summer Fling"
+   ]
+  },
+  {
+   "word": "Summer Fling",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A short romance that happens during the summer.",
+   "examples": [
+    "It was supposed to be a summer fling."
+   ],
+   "related": [
+    "Fling",
+    "Freckling"
+   ]
+  },
+  {
+   "word": "Office Romance",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A romantic relationship between coworkers.",
+   "examples": [
+    "Their office romance was the worst-kept secret."
+   ],
+   "related": [
+    "Romance",
+    "Liaison"
+   ]
+  },
+  {
+   "word": "Whirlwind Romance",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A romance that develops very quickly and intensely.",
+   "examples": [
+    "After a whirlwind romance, they married within months."
+   ],
+   "related": [
+    "Love at First Sight",
+    "Coup de Foudre"
+   ]
+  },
+  {
+   "word": "Forbidden Love",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "Love that is disapproved of by family, society or rules.",
+   "examples": [
+    "Their forbidden love played out in secret letters."
+   ],
+   "related": [
+    "Star-Crossed Lovers",
+    "Romeo"
+   ]
+  },
+  {
+   "word": "Star-Crossed Lovers",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "Lovers whose relationship seems doomed by fate.",
+   "examples": [
+    "Like star-crossed lovers, they met at the wrong time."
+   ],
+   "related": [
+    "Romeo",
+    "Forbidden Love"
+   ],
+   "note": "From the prologue of Shakespeare's 'Romeo and Juliet'."
+  },
+  {
+   "word": "The One",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "The person you believe you are meant to spend your life with.",
+   "examples": [
+    "The moment he laughed at her joke, she knew he was the one."
+   ],
+   "related": [
+    "Soulmate",
+    "Mr. Right"
+   ]
+  },
+  {
+   "word": "Mr. Right",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "The ideal man for someone; 'Ms. Right' is used for a woman.",
+   "examples": [
+    "She's not looking for Mr. Right, just Mr. Right Now."
+   ],
+   "related": [
+    "The One",
+    "Prince Charming"
+   ]
+  },
+  {
+   "word": "Prince Charming",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "An idealised romantic hero, from fairy tales.",
+   "examples": [
+    "She stopped waiting for Prince Charming and booked a solo trip."
+   ],
+   "related": [
+    "Mr. Right",
+    "Knight in Shining Armour"
+   ]
+  },
+  {
+   "word": "Fairy-Tale Romance",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A romance so perfect it seems like a story.",
+   "examples": [
+    "Their fairy-tale romance ended with a palace wedding."
+   ],
+   "related": [
+    "Happily Ever After",
+    "Prince Charming"
+   ]
+  },
+  {
+   "word": "Happily Ever After",
+   "pos": "phrase",
+   "category": "stages",
+   "definition": "A lasting happy ending, especially in love.",
+   "examples": [
+    "Every rom-com promises a happily ever after."
+   ],
+   "related": [
+    "Fairy-Tale Romance",
+    "True Love"
+   ]
+  },
+  {
+   "word": "Dry Spell",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A long period without romance or dates.",
+   "examples": [
+    "After a six-month dry spell, she reinstalled the apps."
+   ],
+   "related": [
+    "Single",
+    "Dating Detox"
+   ]
+  },
+  {
+   "word": "Monkey Branching",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "Lining up a new partner before leaving your current one.",
+   "examples": [
+    "He was monkey branching — already texting someone new."
+   ],
+   "related": [
+    "Cushioning",
+    "Red Flag"
+   ]
+  },
+  {
+   "word": "Mosting",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "Intensely love-bombing someone early, then suddenly ghosting them.",
+   "examples": [
+    "He said I was 'the one' on date two and vanished on date three. Mosting."
+   ],
+   "related": [
+    "Love Bombing",
+    "Ghosting"
+   ]
+  },
+  {
+   "word": "Wedding",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "A marriage ceremony and its celebration.",
+   "examples": [
+    "Their wedding lasted three days."
+   ],
+   "related": [
+    "Vows",
+    "Bride"
+   ]
+  },
+  {
+   "word": "Bride",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "A woman on her wedding day or about to be married.",
+   "examples": [
+    "The bride wore her grandmother's earrings."
+   ],
+   "related": [
+    "Bridegroom",
+    "Wedding"
+   ]
+  },
+  {
+   "word": "Bridegroom",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "A man on his wedding day or about to be married; often shortened to 'groom'.",
+   "examples": [
+    "The bridegroom arrived on horseback."
+   ],
+   "related": [
+    "Bride",
+    "Baraat"
+   ]
+  },
+  {
+   "word": "Bridesmaid",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "A woman or girl who attends the bride at her wedding.",
+   "examples": [
+    "Her best friend was her chief bridesmaid."
+   ],
+   "related": [
+    "Bride",
+    "Best Man"
+   ]
+  },
+  {
+   "word": "Best Man",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "The groom's chief attendant at a wedding, who often gives a speech.",
+   "examples": [
+    "The best man's speech had everyone laughing."
+   ],
+   "related": [
+    "Bridegroom",
+    "Bridesmaid"
+   ]
+  },
+  {
+   "word": "Bachelor",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "An unmarried man.",
+   "examples": [
+    "He was the most eligible bachelor in town."
+   ],
+   "related": [
+    "Bachelorette",
+    "Single"
+   ]
+  },
+  {
+   "word": "Bachelorette",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "An unmarried woman; a 'bachelorette party' is a celebration before her wedding.",
+   "examples": [
+    "Her bachelorette party was a weekend in Goa."
+   ],
+   "related": [
+    "Bachelor",
+    "Bride"
+   ]
+  },
+  {
+   "word": "Engagement Ring",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "A ring given when a couple agree to marry.",
+   "examples": [
+    "He hid the engagement ring in a box of chocolates."
+   ],
+   "related": [
+    "Proposal",
+    "Engagement"
+   ]
+  },
+  {
+   "word": "Wedding Ring",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "A ring worn to show that someone is married.",
+   "examples": [
+    "She twisted her wedding ring as she spoke."
+   ],
+   "related": [
+    "Vows",
+    "Engagement Ring"
+   ]
+  },
+  {
+   "word": "Pop the Question",
+   "pos": "phrase",
+   "category": "weddings",
+   "definition": "To ask someone to marry you.",
+   "examples": [
+    "He finally popped the question on the beach."
+   ],
+   "related": [
+    "Proposal",
+    "Get Down on One Knee"
+   ]
+  },
+  {
+   "word": "Get Down on One Knee",
+   "pos": "phrase",
+   "category": "weddings",
+   "definition": "To kneel when proposing marriage, a classic tradition.",
+   "examples": [
+    "He got down on one knee in front of the whole restaurant."
+   ],
+   "related": [
+    "Pop the Question",
+    "Proposal"
+   ]
+  },
+  {
+   "word": "Tie the Knot",
+   "pos": "phrase",
+   "category": "weddings",
+   "definition": "To get married.",
+   "examples": [
+    "They're tying the knot in December."
+   ],
+   "related": [
+    "Wedding",
+    "Hitched"
+   ]
+  },
+  {
+   "word": "Hitched",
+   "pos": "adjective",
+   "category": "weddings",
+   "definition": "Informal: married.",
+   "examples": [
+    "They finally got hitched last spring."
+   ],
+   "related": [
+    "Tie the Knot",
+    "Wedding"
+   ]
+  },
+  {
+   "word": "Save the Date",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "An early notice asking guests to keep a wedding date free.",
+   "examples": [
+    "The save-the-date arrived a year in advance."
+   ],
+   "related": [
+    "Wedding",
+    "Plus-One"
+   ]
+  },
+  {
+   "word": "First Dance",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "The newly married couple's first dance together at their reception.",
+   "examples": [
+    "Their first dance was to an old Kishore Kumar song."
+   ],
+   "related": [
+    "Wedding",
+    "Vows"
+   ]
+  },
+  {
+   "word": "Bouquet Toss",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "A tradition where the bride throws her flowers; whoever catches them is said to marry next.",
+   "examples": [
+    "Her cousin caught the bouquet toss and blushed."
+   ],
+   "related": [
+    "Bouquet",
+    "Bride"
+   ]
+  },
+  {
+   "word": "Destination Wedding",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "A wedding held in a travel location away from home.",
+   "examples": [
+    "They had a destination wedding in Udaipur."
+   ],
+   "related": [
+    "Wedding",
+    "Honeymoon"
+   ]
+  },
+  {
+   "word": "Vow Renewal",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "A ceremony in which a married couple repeat their wedding vows.",
+   "examples": [
+    "For their 25th anniversary they had a vow renewal."
+   ],
+   "related": [
+    "Vows",
+    "Anniversary"
+   ]
+  },
+  {
+   "word": "Arranged Marriage",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "A marriage in which families play a major role in choosing or introducing the partners.",
+   "examples": [
+    "Her parents' arranged marriage has lasted forty years."
+   ],
+   "related": [
+    "Love Marriage",
+    "Rishta"
+   ]
+  },
+  {
+   "word": "Love Marriage",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "Indian English: a marriage in which the couple chose each other themselves.",
+   "examples": [
+    "Theirs was a love marriage that both families came to bless."
+   ],
+   "related": [
+    "Arranged Marriage",
+    "Shaadi"
+   ]
+  },
+  {
+   "word": "Shaadi",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "Hindi and Urdu for a wedding or marriage.",
+   "examples": [
+    "The whole neighbourhood was invited to the shaadi."
+   ],
+   "related": [
+    "Wedding",
+    "Sangeet"
+   ]
+  },
+  {
+   "word": "Rishta",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "Hindi and Urdu for a relationship, especially a marriage proposal arranged between families.",
+   "examples": [
+    "A rishta came from a family in Lucknow."
+   ],
+   "related": [
+    "Arranged Marriage",
+    "Matchmaker"
+   ]
+  },
+  {
+   "word": "Kundli Matching",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "The Hindu practice of comparing horoscopes to judge a couple's compatibility before marriage.",
+   "examples": [
+    "Their kundli matching showed 32 out of 36 points."
+   ],
+   "related": [
+    "Arranged Marriage",
+    "Rishta"
+   ]
+  },
+  {
+   "word": "Sangeet",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "A joyful pre-wedding night of music and dance in Indian weddings.",
+   "examples": [
+    "Both families practised dances for weeks before the sangeet."
+   ],
+   "related": [
+    "Mehndi",
+    "Shaadi"
+   ]
+  },
+  {
+   "word": "Mehndi",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "Henna designs applied to the bride's hands and feet before an Indian or South Asian wedding; also the ceremony itself.",
+   "examples": [
+    "They say the darker the mehndi, the deeper the love."
+   ],
+   "related": [
+    "Sangeet",
+    "Haldi"
+   ]
+  },
+  {
+   "word": "Haldi",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "A pre-wedding Indian ceremony in which turmeric paste is applied to the bride and groom for blessing and glow.",
+   "examples": [
+    "Everyone ended up yellow after the haldi."
+   ],
+   "related": [
+    "Mehndi",
+    "Shaadi"
+   ]
+  },
+  {
+   "word": "Baraat",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "The groom's festive wedding procession, with music and dancing.",
+   "examples": [
+    "The baraat danced through the street for an hour."
+   ],
+   "related": [
+    "Bridegroom",
+    "Shaadi"
+   ]
+  },
+  {
+   "word": "Pheras",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "The seven rounds a Hindu couple take around a sacred fire, each with a vow.",
+   "examples": [
+    "The pheras were the most emotional part of the wedding."
+   ],
+   "related": [
+    "Vows",
+    "Saat Phere"
+   ]
+  },
+  {
+   "word": "Saat Phere",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "Hindi for 'seven rounds': the seven vows taken around the sacred fire in a Hindu wedding.",
+   "examples": [
+    "With the saat phere, they were bound for seven lifetimes."
+   ],
+   "related": [
+    "Pheras",
+    "Vows"
+   ]
+  },
+  {
+   "word": "Mangalsutra",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "A sacred necklace tied by a Hindu groom around the bride's neck as a symbol of marriage.",
+   "examples": [
+    "Her mangalsutra was her grandmother's design."
+   ],
+   "related": [
+    "Sindoor",
+    "Shaadi"
+   ]
+  },
+  {
+   "word": "Sindoor",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "Red vermilion powder worn in the hair parting by many married Hindu women.",
+   "examples": [
+    "He applied sindoor during the ceremony."
+   ],
+   "related": [
+    "Mangalsutra",
+    "Shaadi"
+   ]
+  },
+  {
+   "word": "Nikah",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "The Islamic marriage contract and ceremony.",
+   "examples": [
+    "Their nikah was held at the family home."
+   ],
+   "related": [
+    "Wedding",
+    "Shaadi"
+   ]
+  },
+  {
+   "word": "Court Marriage",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "Indian English: a civil marriage registered in court rather than through a religious ceremony.",
+   "examples": [
+    "They chose a simple court marriage and a big party later."
+   ],
+   "related": [
+    "Love Marriage",
+    "Wedding"
+   ]
+  },
+  {
+   "word": "Civil Partnership",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "A legally recognised union similar to marriage, available in some countries.",
+   "examples": [
+    "They registered a civil partnership last year."
+   ],
+   "related": [
+    "Spouse",
+    "Wedding"
+   ]
+  },
+  {
+   "word": "Cohabit",
+   "pos": "verb",
+   "category": "weddings",
+   "definition": "To live together as a couple without being married.",
+   "examples": [
+    "Many couples cohabit for years before marrying."
+   ],
+   "related": [
+    "Moving In Together",
+    "Partner"
+   ]
+  },
+  {
+   "word": "Wedding Anniversary",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "The date each year on which a couple celebrates their marriage.",
+   "examples": [
+    "For their tenth wedding anniversary he recreated their first date."
+   ],
+   "related": [
+    "Anniversary",
+    "Vow Renewal"
+   ]
+  },
+  {
+   "word": "Groomsman",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "A male friend who attends the groom at a wedding.",
+   "examples": [
+    "His brothers were all groomsmen."
+   ],
+   "related": [
+    "Best Man",
+    "Bridegroom"
+   ]
+  },
+  {
+   "word": "Veil",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "A piece of fabric worn by a bride over her head or face.",
+   "examples": [
+    "He lifted her veil and smiled."
+   ],
+   "related": [
+    "Bride",
+    "Wedding"
+   ]
+  },
+  {
+   "word": "Elopement",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "Running away secretly to get married.",
+   "examples": [
+    "Their elopement shocked both families."
+   ],
+   "related": [
+    "Elope",
+    "Wedding"
+   ]
+  },
+  {
+   "word": "Newlyweds",
+   "pos": "noun",
+   "category": "weddings",
+   "definition": "A couple who have recently married.",
+   "examples": [
+    "The newlyweds left for their honeymoon in Bali."
+   ],
+   "related": [
+    "Honeymoon",
+    "Wedding"
    ]
   }
  ]
