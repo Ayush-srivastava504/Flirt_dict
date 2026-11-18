@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151366410183",
+    "project_id": "flirt-dict",
+    "storage_bucket": "flirt-dict.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151366410183:android:90c012acf27d861bb183e2",
+        "android_client_info": {
+          "package_name": "com.flirtdict.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuIhEAYdcQ0XfvBQ16DLe_8AwRj5CkLAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
