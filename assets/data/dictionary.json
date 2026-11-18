@@ -5154,7 +5154,8 @@
     "His clumsy honesty makes him completely lovable."
    ],
    "related": [
-    "Endearing"
+    "Endearing",
+    "Adorable"
    ]
   },
   {
@@ -5506,7 +5507,8 @@
     "Her habit of humming while she reads is endearing."
    ],
    "related": [
-    "Lovable"
+    "Lovable",
+    "Adorable"
    ]
   },
   {
@@ -8713,6 +8715,7 @@
     "After he cheated, she sold his guitar. Hell hath no fury."
    ],
    "related": [
+    "Scorned",
     "Breakup"
    ]
   },
@@ -8973,6 +8976,1810 @@
    "related": [
     "Lovey-Dovey",
     "Lovebirds"
+   ]
+  },
+  {
+   "word": "Baby",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "A very common affectionate name for a partner.",
+   "examples": [
+    "Baby, you forgot your keys again."
+   ],
+   "related": [
+    "Babe",
+    "Pet Name"
+   ]
+  },
+  {
+   "word": "Lovey",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "Mainly British: a warm, casual term of endearment.",
+   "examples": [
+    "Fancy a cuppa, lovey?"
+   ],
+   "related": [
+    "Love",
+    "Pet Name"
+   ]
+  },
+  {
+   "word": "Dear",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "A gentle term of address for someone you love.",
+   "examples": [
+    "Goodnight, dear."
+   ],
+   "related": [
+    "Dearest",
+    "Darling"
+   ]
+  },
+  {
+   "word": "Dearest",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "Most loved; used to address someone very dear.",
+   "examples": [
+    "My dearest, I miss you terribly."
+   ],
+   "related": [
+    "Dear",
+    "Beloved"
+   ]
+  },
+  {
+   "word": "Hun",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "Short for 'honey'; a casual endearment.",
+   "examples": [
+    "You okay, hun?"
+   ],
+   "related": [
+    "Honey",
+    "Sweetie"
+   ]
+  },
+  {
+   "word": "Cupcake",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "A sweet, playful pet name.",
+   "examples": [
+    "Morning, cupcake!"
+   ],
+   "related": [
+    "Pet Name",
+    "Sweetie"
+   ]
+  },
+  {
+   "word": "Sugar",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "An old-fashioned sweet term of endearment.",
+   "examples": [
+    "How was your day, sugar?"
+   ],
+   "related": [
+    "Honey",
+    "Sweetheart"
+   ]
+  },
+  {
+   "word": "Sweet Pea",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "A gentle pet name, also used for children.",
+   "examples": [
+    "Sleep tight, sweet pea."
+   ],
+   "related": [
+    "Pet Name",
+    "Cupcake"
+   ]
+  },
+  {
+   "word": "Honeybun",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "A cutesy variation on 'honey'.",
+   "examples": [
+    "Love you, honeybun."
+   ],
+   "related": [
+    "Honey",
+    "Cupcake"
+   ]
+  },
+  {
+   "word": "Buttercup",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "A cheerful, sweet pet name, after the yellow flower.",
+   "examples": [
+    "Chin up, buttercup."
+   ],
+   "related": [
+    "Pet Name",
+    "Sunshine"
+   ]
+  },
+  {
+   "word": "Princess",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "A pet name for a woman someone adores and wants to spoil.",
+   "examples": [
+    "Your carriage awaits, princess."
+   ],
+   "related": [
+    "Prince Charming",
+    "Pet Name"
+   ]
+  },
+  {
+   "word": "Handsome",
+   "pos": "adjective / noun",
+   "category": "compliments",
+   "definition": "Good-looking, especially of a man; also used to address him.",
+   "examples": [
+    "Looking sharp, handsome."
+   ],
+   "related": [
+    "Good-Looking",
+    "Dapper"
+   ]
+  },
+  {
+   "word": "Beautiful",
+   "pos": "adjective / noun",
+   "category": "compliments",
+   "definition": "Very attractive; also used as a loving form of address.",
+   "examples": [
+    "Good morning, beautiful."
+   ],
+   "related": [
+    "Gorgeous",
+    "Stunning"
+   ]
+  },
+  {
+   "word": "Doll",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "An old-fashioned term for an attractive or lovely person.",
+   "examples": [
+    "Thanks, doll — you're a lifesaver."
+   ],
+   "related": [
+    "Pet Name",
+    "Cutie"
+   ]
+  },
+  {
+   "word": "Treasure",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "Someone very precious to you.",
+   "examples": [
+    "You're my treasure."
+   ],
+   "related": [
+    "Precious",
+    "Schatz"
+   ]
+  },
+  {
+   "word": "Precious",
+   "pos": "adjective / noun",
+   "category": "compliments",
+   "definition": "Greatly loved; also used as a pet name.",
+   "examples": [
+    "Every minute with you is precious."
+   ],
+   "related": [
+    "Treasure",
+    "Cherish"
+   ]
+  },
+  {
+   "word": "Teddy Bear",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "A pet name for a big, cuddly and gentle partner.",
+   "examples": [
+    "He looks tough but he's a total teddy bear."
+   ],
+   "related": [
+    "Cuddle",
+    "Golden Retriever Boyfriend"
+   ]
+  },
+  {
+   "word": "Kitten",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "A playful, affectionate pet name.",
+   "examples": [
+    "Come here, kitten."
+   ],
+   "related": [
+    "Pet Name",
+    "Cutie"
+   ]
+  },
+  {
+   "word": "Peach",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "Informal: a lovely or attractive person; 'a real peach'.",
+   "examples": [
+    "She's an absolute peach."
+   ],
+   "related": [
+    "Sweetie",
+    "Heart of Gold"
+   ]
+  },
+  {
+   "word": "Lovebug",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "A cute name for someone you adore.",
+   "examples": [
+    "Night night, lovebug."
+   ],
+   "related": [
+    "Love Bug",
+    "Pet Name"
+   ]
+  },
+  {
+   "word": "Snookums",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "A deliberately silly, cutesy pet name.",
+   "examples": [
+    "Snookums, pass the remote."
+   ],
+   "related": [
+    "Pet Name",
+    "Pumpkin"
+   ]
+  },
+  {
+   "word": "Poppet",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "British: an affectionate name for a sweet or small person.",
+   "examples": [
+    "Off you go, poppet."
+   ],
+   "related": [
+    "Pet Name",
+    "Sweet Pea"
+   ]
+  },
+  {
+   "word": "Bub",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "A short, casual pet name, from 'bubba' or 'baby'.",
+   "examples": [
+    "What's wrong, bub?"
+   ],
+   "related": [
+    "Baby",
+    "Pet Name"
+   ]
+  },
+  {
+   "word": "Light of My Life",
+   "pos": "phrase",
+   "category": "compliments",
+   "definition": "The person who brings you the most happiness.",
+   "examples": [
+    "She's the light of my life."
+   ],
+   "related": [
+    "Love of My Life",
+    "Sunshine"
+   ]
+  },
+  {
+   "word": "You Complete Me",
+   "pos": "phrase",
+   "category": "compliments",
+   "definition": "A declaration that someone makes your life whole.",
+   "examples": [
+    "'You complete me,' he whispered."
+   ],
+   "related": [
+    "Soulmate",
+    "Media Naranja"
+   ]
+  },
+  {
+   "word": "Take My Breath Away",
+   "pos": "phrase",
+   "category": "compliments",
+   "definition": "To amaze someone with beauty or emotion.",
+   "examples": [
+    "You take my breath away."
+   ],
+   "related": [
+    "Stunning",
+    "Breathtaking"
+   ]
+  },
+  {
+   "word": "Sight for Sore Eyes",
+   "pos": "phrase",
+   "category": "compliments",
+   "definition": "Someone you're very pleased to see.",
+   "examples": [
+    "After a month apart, you're a sight for sore eyes."
+   ],
+   "related": [
+    "Retrouvailles",
+    "Miss"
+   ]
+  },
+  {
+   "word": "Adorable",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Extremely cute and lovable.",
+   "examples": [
+    "Your laugh is adorable."
+   ],
+   "related": [
+    "Cute",
+    "Endearing"
+   ]
+  },
+  {
+   "word": "Alluring",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Powerfully and mysteriously attractive.",
+   "examples": [
+    "She had an alluring smile."
+   ],
+   "related": [
+    "Allure",
+    "Captivating"
+   ]
+  },
+  {
+   "word": "Attractive",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Pleasing to look at or appealing in personality.",
+   "examples": [
+    "Confidence is very attractive."
+   ],
+   "related": [
+    "Good-Looking",
+    "Attraction"
+   ]
+  },
+  {
+   "word": "Bewitching",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Enchantingly beautiful or charming.",
+   "examples": [
+    "Her bewitching eyes held his gaze."
+   ],
+   "related": [
+    "Enchanting",
+    "Spellbound"
+   ]
+  },
+  {
+   "word": "Breathtaking",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "So beautiful it takes your breath away.",
+   "examples": [
+    "You look breathtaking."
+   ],
+   "related": [
+    "Stunning",
+    "Take My Breath Away"
+   ]
+  },
+  {
+   "word": "Captivating",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Capable of holding attention; charming.",
+   "examples": [
+    "He told captivating stories all night."
+   ],
+   "related": [
+    "Captivate",
+    "Alluring"
+   ]
+  },
+  {
+   "word": "Charismatic",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Having a magnetic charm that inspires devotion.",
+   "examples": [
+    "Their charismatic host had everyone dancing."
+   ],
+   "related": [
+    "Charisma",
+    "Magnetism"
+   ]
+  },
+  {
+   "word": "Classy",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Stylish and sophisticated.",
+   "examples": [
+    "She has such a classy sense of style."
+   ],
+   "related": [
+    "Elegant",
+    "Sophisticated"
+   ]
+  },
+  {
+   "word": "Cute",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Attractive in a sweet or endearing way.",
+   "examples": [
+    "You're cute when you're nervous."
+   ],
+   "related": [
+    "Adorable",
+    "Cutie"
+   ]
+  },
+  {
+   "word": "Dapper",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Neat, stylish and trim, especially of a man's dress.",
+   "examples": [
+    "He looked dapper in his three-piece suit."
+   ],
+   "related": [
+    "Handsome",
+    "Debonair"
+   ]
+  },
+  {
+   "word": "Debonair",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Confident, stylish and charming, especially of a man.",
+   "examples": [
+    "The debonair stranger offered her his umbrella."
+   ],
+   "related": [
+    "Suave",
+    "Dapper"
+   ]
+  },
+  {
+   "word": "Delightful",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Very pleasing and charming.",
+   "examples": [
+    "What a delightful evening."
+   ],
+   "related": [
+    "Charming",
+    "Lovely"
+   ]
+  },
+  {
+   "word": "Divine",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Excellent or beautiful in a heavenly way.",
+   "examples": [
+    "You look divine in that colour."
+   ],
+   "related": [
+    "Gorgeous",
+    "Exquisite"
+   ]
+  },
+  {
+   "word": "Elegant",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Graceful and stylish.",
+   "examples": [
+    "Her elegant handwriting made every note special."
+   ],
+   "related": [
+    "Classy",
+    "Graceful"
+   ]
+  },
+  {
+   "word": "Enchanting",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Delightfully charming or attractive.",
+   "examples": [
+    "It was an enchanting evening."
+   ],
+   "related": [
+    "Enchanted",
+    "Bewitching"
+   ]
+  },
+  {
+   "word": "Exquisite",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Extremely beautiful and delicate.",
+   "examples": [
+    "The ring was exquisite."
+   ],
+   "related": [
+    "Divine",
+    "Elegant"
+   ]
+  },
+  {
+   "word": "Fetching",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Attractive, especially in a particular outfit or look.",
+   "examples": [
+    "That hat looks very fetching on you."
+   ],
+   "related": [
+    "Attractive",
+    "Cute"
+   ]
+  },
+  {
+   "word": "Foxy",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Informal: sexually attractive.",
+   "examples": [
+    "Looking foxy tonight!"
+   ],
+   "related": [
+    "Hot",
+    "Hottie"
+   ]
+  },
+  {
+   "word": "Good-Looking",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Physically attractive.",
+   "examples": [
+    "Her brother is very good-looking."
+   ],
+   "related": [
+    "Handsome",
+    "Attractive"
+   ]
+  },
+  {
+   "word": "Graceful",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Moving or behaving with elegance and ease.",
+   "examples": [
+    "She was so graceful on the dance floor."
+   ],
+   "related": [
+    "Elegant"
+   ]
+  },
+  {
+   "word": "Hot",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Informal: very attractive.",
+   "examples": [
+    "Your date is hot."
+   ],
+   "related": [
+    "Hottie",
+    "Foxy"
+   ]
+  },
+  {
+   "word": "Irresistible",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Too attractive or appealing to resist.",
+   "examples": [
+    "His dimples are irresistible."
+   ],
+   "related": [
+    "Alluring",
+    "Temptation"
+   ]
+  },
+  {
+   "word": "Lovely",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Beautiful and charming.",
+   "examples": [
+    "You look lovely this evening."
+   ],
+   "related": [
+    "Beautiful",
+    "Delightful"
+   ]
+  },
+  {
+   "word": "Magnetic",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Strongly attractive; drawing people in.",
+   "examples": [
+    "She has a magnetic personality."
+   ],
+   "related": [
+    "Magnetism",
+    "Charismatic"
+   ]
+  },
+  {
+   "word": "Mesmerizing",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Captivating, holding attention completely.",
+   "examples": [
+    "Her voice was mesmerizing."
+   ],
+   "related": [
+    "Mesmerized",
+    "Captivating"
+   ]
+  },
+  {
+   "word": "Pretty",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Attractive in a delicate way.",
+   "examples": [
+    "You have such a pretty smile."
+   ],
+   "related": [
+    "Cute",
+    "Lovely"
+   ]
+  },
+  {
+   "word": "Ravishing",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Delightfully, strikingly beautiful.",
+   "examples": [
+    "The bride looked ravishing."
+   ],
+   "related": [
+    "Stunning",
+    "Gorgeous"
+   ]
+  },
+  {
+   "word": "Sexy",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Sexually attractive or exciting.",
+   "examples": [
+    "His accent is ridiculously sexy."
+   ],
+   "related": [
+    "Hot",
+    "Sultry"
+   ]
+  },
+  {
+   "word": "Sophisticated",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Refined, cultured and worldly.",
+   "examples": [
+    "Their sophisticated date was wine tasting in Nashik."
+   ],
+   "related": [
+    "Classy",
+    "Elegant"
+   ]
+  },
+  {
+   "word": "Striking",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Noticeably attractive or impressive.",
+   "examples": [
+    "She has striking green eyes."
+   ],
+   "related": [
+    "Stunning",
+    "Gorgeous"
+   ]
+  },
+  {
+   "word": "Stylish",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Fashionably elegant.",
+   "examples": [
+    "You're always so stylish."
+   ],
+   "related": [
+    "Classy",
+    "Dapper"
+   ]
+  },
+  {
+   "word": "Sweet",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Kind, gentle and pleasant.",
+   "examples": [
+    "That's so sweet of you."
+   ],
+   "related": [
+    "Sweetie",
+    "Thoughtful"
+   ]
+  },
+  {
+   "word": "Juliet",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A young woman deeply in love, after the heroine of Shakespeare's 'Romeo and Juliet'.",
+   "examples": [
+    "She waited on the balcony like a modern Juliet."
+   ],
+   "related": [
+    "Romeo",
+    "Star-Crossed Lovers"
+   ]
+  },
+  {
+   "word": "Tristan and Isolde",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "Legendary medieval lovers whose tragic, forbidden love inspired poems and Wagner's opera.",
+   "examples": [
+    "Their story echoes Tristan and Isolde."
+   ],
+   "related": [
+    "Forbidden Love",
+    "Courtly Love"
+   ]
+  },
+  {
+   "word": "Laila Majnu",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "Legendary lovers from Arabic and Persian poetry, popular across South Asia; Majnu means 'possessed' or 'madly in love'.",
+   "examples": [
+    "They call him Majnu because he's crazy about her."
+   ],
+   "related": [
+    "Heer Ranjha",
+    "Forbidden Love"
+   ]
+  },
+  {
+   "word": "Heer Ranjha",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A tragic Punjabi love legend, retold in Waris Shah's famous 18th-century poem.",
+   "examples": [
+    "Every Punjabi wedding seems to quote Heer Ranjha."
+   ],
+   "related": [
+    "Laila Majnu",
+    "Star-Crossed Lovers"
+   ]
+  },
+  {
+   "word": "Shirin Farhad",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A Persian love legend in which Farhad carves through a mountain for his beloved Shirin.",
+   "examples": [
+    "His devotion was worthy of Shirin Farhad."
+   ],
+   "related": [
+    "Laila Majnu",
+    "Devotion"
+   ]
+  },
+  {
+   "word": "Radha Krishna",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "The divine love of Radha and Krishna in Hindu tradition, a symbol of pure, devoted love.",
+   "examples": [
+    "Their love was compared to Radha Krishna's."
+   ],
+   "related": [
+    "Devotion",
+    "Agape"
+   ]
+  },
+  {
+   "word": "Kamadeva",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "The Hindu god of love and desire, who shoots flower-tipped arrows.",
+   "examples": [
+    "Kamadeva's arrow must have hit him."
+   ],
+   "related": [
+    "Cupid",
+    "Eros"
+   ]
+  },
+  {
+   "word": "Aphrodite",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "The ancient Greek goddess of love and beauty.",
+   "examples": [
+    "She entered the room like Aphrodite."
+   ],
+   "related": [
+    "Venus",
+    "Eros"
+   ]
+  },
+  {
+   "word": "Venus",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "The Roman goddess of love and beauty; also the planet named after her.",
+   "examples": [
+    "The painting shows Venus rising from the sea."
+   ],
+   "related": [
+    "Aphrodite",
+    "Cupid"
+   ]
+  },
+  {
+   "word": "Taj Mahal",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "The white marble mausoleum in Agra built by Shah Jahan for his wife Mumtaz Mahal, a world symbol of love.",
+   "examples": [
+    "He promised her a trip to the Taj Mahal for their anniversary."
+   ],
+   "related": [
+    "Devotion",
+    "Shayari"
+   ]
+  },
+  {
+   "word": "Valentine's Day",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "February 14, a day for celebrating romantic love.",
+   "examples": [
+    "They exchange handwritten letters every Valentine's Day."
+   ],
+   "related": [
+    "Valentine",
+    "Galentine's Day"
+   ]
+  },
+  {
+   "word": "Galentine's Day",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "February 13, a day for celebrating female friendships, popularised by the TV show 'Parks and Recreation'.",
+   "examples": [
+    "Brunch with the girls for Galentine's Day!"
+   ],
+   "related": [
+    "Valentine's Day"
+   ]
+  },
+  {
+   "word": "Red Rose",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "The traditional flower of romantic love.",
+   "examples": [
+    "A single red rose was waiting on her desk."
+   ],
+   "related": [
+    "Bouquet",
+    "Valentine's Day"
+   ]
+  },
+  {
+   "word": "Love Knot",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A decorative knot symbolising the bond between lovers.",
+   "examples": [
+    "The ring was engraved with a love knot."
+   ],
+   "related": [
+    "Bond",
+    "Claddagh Ring"
+   ]
+  },
+  {
+   "word": "Claddagh Ring",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A traditional Irish ring showing two hands holding a crowned heart, symbolising love, loyalty and friendship.",
+   "examples": [
+    "Her grandmother's Claddagh ring was passed down to her."
+   ],
+   "related": [
+    "Love Knot",
+    "Promise Ring"
+   ]
+  },
+  {
+   "word": "Courtesan",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "Historically, an elegant companion to wealthy or noble men.",
+   "examples": [
+    "The novel follows a celebrated courtesan in 18th-century Venice."
+   ],
+   "related": [
+    "Paramour"
+   ]
+  },
+  {
+   "word": "Cavalier",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A gallant gentleman, especially one escorting a lady.",
+   "examples": [
+    "Her cavalier offered his arm as they left the ball."
+   ],
+   "related": [
+    "Gallant",
+    "Chivalry"
+   ]
+  },
+  {
+   "word": "Damsel in Distress",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A young woman in trouble awaiting rescue, a classic story trope.",
+   "examples": [
+    "She was no damsel in distress — she fixed the car herself."
+   ],
+   "related": [
+    "Knight in Shining Armour",
+    "Prince Charming"
+   ]
+  },
+  {
+   "word": "Assignation",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A secret arrangement to meet, especially between lovers.",
+   "examples": [
+    "Their midnight assignation was at the lighthouse."
+   ],
+   "related": [
+    "Tryst",
+    "Rendezvous"
+   ]
+  },
+  {
+   "word": "Philanderer",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A man who has many casual affairs.",
+   "examples": [
+    "The philanderer was finally caught out."
+   ],
+   "related": [
+    "Casanova",
+    "Player"
+   ]
+  },
+  {
+   "word": "Cad",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "Old-fashioned: a man who behaves dishonourably toward women.",
+   "examples": [
+    "He turned out to be a cad."
+   ],
+   "related": [
+    "Rake",
+    "Red Flag"
+   ]
+  },
+  {
+   "word": "Rogue",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A charming but unreliable or mischievous man, often a romantic hero.",
+   "examples": [
+    "She fell for the lovable rogue."
+   ],
+   "related": [
+    "Rake",
+    "Bad Boy"
+   ]
+  },
+  {
+   "word": "Bad Boy",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A rebellious, rule-breaking man whom some find attractive.",
+   "examples": [
+    "Every story needs a bad boy with a leather jacket."
+   ],
+   "related": [
+    "Rogue",
+    "Rake"
+   ]
+  },
+  {
+   "word": "Platonic Love",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "Deep affection without romantic or sexual desire.",
+   "examples": [
+    "Theirs is a platonic love, as strong as any romance."
+   ],
+   "related": [
+    "Philia",
+    "Kindred Spirit"
+   ],
+   "note": "Named after the Greek philosopher Plato."
+  },
+  {
+   "word": "Spurned",
+   "pos": "adjective",
+   "category": "classic",
+   "definition": "Rejected, especially by someone you love.",
+   "examples": [
+    "The spurned lover wrote an angry ballad."
+   ],
+   "related": [
+    "Rejection",
+    "Scorned"
+   ]
+  },
+  {
+   "word": "Scorned",
+   "pos": "adjective",
+   "category": "classic",
+   "definition": "Rejected with contempt, especially in love.",
+   "examples": [
+    "A scorned lover is a dangerous thing."
+   ],
+   "related": [
+    "Spurned",
+    "Hell Hath No Fury Like a Woman Scorned"
+   ]
+  },
+  {
+   "word": "Lover's Knot",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A knot of two intertwined loops symbolising union.",
+   "examples": [
+    "Their wedding cake had a lover's knot design."
+   ],
+   "related": [
+    "Love Knot",
+    "Vows"
+   ]
+  },
+  {
+   "word": "Epistolary Romance",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A love story told through letters.",
+   "examples": [
+    "Their courtship was an epistolary romance across continents."
+   ],
+   "related": [
+    "Love Note",
+    "Pen Pal"
+   ]
+  },
+  {
+   "word": "Ode",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A lyrical poem praising someone or something.",
+   "examples": [
+    "He wrote an ode to her laugh."
+   ],
+   "related": [
+    "Sonnet",
+    "Muse"
+   ]
+  },
+  {
+   "word": "Amoureux",
+   "pos": "adjective",
+   "category": "world",
+   "definition": "French for 'in love'.",
+   "examples": [
+    "Ils sont amoureux — they're in love."
+   ],
+   "related": [
+    "Tomber Amoureux",
+    "Je T'aime"
+   ]
+  },
+  {
+   "word": "Tomber Amoureux",
+   "pos": "phrase",
+   "category": "world",
+   "definition": "French for 'to fall in love'.",
+   "examples": [
+    "Paris is the perfect place to tomber amoureux."
+   ],
+   "related": [
+    "Amoureux",
+    "Fall in Love"
+   ]
+  },
+  {
+   "word": "Avoir le Béguin",
+   "pos": "phrase",
+   "category": "world",
+   "definition": "French for 'to have a crush on someone'.",
+   "examples": [
+    "J'ai le béguin pour toi — I have a crush on you."
+   ],
+   "related": [
+    "Crush",
+    "Amoureux"
+   ]
+  },
+  {
+   "word": "Faire la Bise",
+   "pos": "phrase",
+   "category": "world",
+   "definition": "The French custom of greeting with light kisses on the cheeks.",
+   "examples": [
+    "In Paris you faire la bise even with new friends."
+   ],
+   "related": [
+    "Bisou",
+    "Kiss"
+   ]
+  },
+  {
+   "word": "Petit Ami",
+   "pos": "noun",
+   "category": "world",
+   "definition": "French for 'boyfriend'; 'petite amie' means girlfriend.",
+   "examples": [
+    "Elle a un petit ami à Lyon."
+   ],
+   "related": [
+    "Boyfriend",
+    "Girlfriend"
+   ]
+  },
+  {
+   "word": "Chouchou",
+   "pos": "noun",
+   "category": "world",
+   "definition": "A French pet name meaning 'darling' or 'favourite'.",
+   "examples": [
+    "Bonne nuit, mon chouchou."
+   ],
+   "related": [
+    "Mon Petit Chou",
+    "Pet Name"
+   ]
+  },
+  {
+   "word": "Ma Puce",
+   "pos": "phrase",
+   "category": "world",
+   "definition": "A French pet name, literally 'my flea' — used affectionately.",
+   "examples": [
+    "Ça va, ma puce?"
+   ],
+   "related": [
+    "Chouchou",
+    "Pet Name"
+   ]
+  },
+  {
+   "word": "Mon Ange",
+   "pos": "phrase",
+   "category": "world",
+   "definition": "French for 'my angel'.",
+   "examples": [
+    "Dors bien, mon ange."
+   ],
+   "related": [
+    "Angel",
+    "Mon Amour"
+   ]
+  },
+  {
+   "word": "Mi Amor",
+   "pos": "phrase",
+   "category": "world",
+   "definition": "Spanish for 'my love'.",
+   "examples": [
+    "Buenos días, mi amor."
+   ],
+   "related": [
+    "Te Amo",
+    "Mon Amour"
+   ]
+  },
+  {
+   "word": "Corazón",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Spanish for 'heart'; used as an affectionate pet name.",
+   "examples": [
+    "Gracias, corazón."
+   ],
+   "related": [
+    "Mon Cœur",
+    "Mi Amor"
+   ]
+  },
+  {
+   "word": "Cariño",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Spanish for 'darling' or 'affection'.",
+   "examples": [
+    "¿Qué tal, cariño?"
+   ],
+   "related": [
+    "Querida",
+    "Mi Amor"
+   ]
+  },
+  {
+   "word": "Te Quiero",
+   "pos": "phrase",
+   "category": "world",
+   "definition": "Spanish for 'I love you' or 'I care for you', a little lighter than 'te amo'.",
+   "examples": [
+    "Te quiero mucho."
+   ],
+   "related": [
+    "Te Amo",
+    "Cariño"
+   ]
+  },
+  {
+   "word": "Media Naranja",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Spanish for 'soulmate' or 'other half', literally 'half orange'.",
+   "examples": [
+    "He's my media naranja."
+   ],
+   "related": [
+    "Soulmate",
+    "Better Half"
+   ]
+  },
+  {
+   "word": "Alma Gemela",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Spanish for 'soulmate', literally 'twin soul'.",
+   "examples": [
+    "Encontré a mi alma gemela."
+   ],
+   "related": [
+    "Media Naranja",
+    "Soulmate"
+   ]
+  },
+  {
+   "word": "Ti Amo",
+   "pos": "phrase",
+   "category": "world",
+   "definition": "Italian for 'I love you'.",
+   "examples": [
+    "Ti amo più di ogni cosa."
+   ],
+   "related": [
+    "Amore",
+    "Te Amo"
+   ]
+  },
+  {
+   "word": "Tesoro",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Italian for 'treasure', a common pet name.",
+   "examples": [
+    "Ciao, tesoro!"
+   ],
+   "related": [
+    "Schatz",
+    "Treasure"
+   ]
+  },
+  {
+   "word": "Ich Liebe Dich",
+   "pos": "phrase",
+   "category": "world",
+   "definition": "German for 'I love you'.",
+   "examples": [
+    "He wrote 'Ich liebe dich' on the foggy window."
+   ],
+   "related": [
+    "Liebling",
+    "Je T'aime"
+   ]
+  },
+  {
+   "word": "Saranghae",
+   "pos": "phrase",
+   "category": "world",
+   "definition": "Korean for 'I love you'.",
+   "examples": [
+    "K-drama fans learn 'saranghae' first."
+   ],
+   "related": [
+    "Oppa",
+    "Aegyo"
+   ]
+  },
+  {
+   "word": "Aishiteru",
+   "pos": "phrase",
+   "category": "world",
+   "definition": "Japanese for 'I love you' — deep and rarely said aloud.",
+   "examples": [
+    "He finally said 'aishiteru' at the airport."
+   ],
+   "related": [
+    "Koi no Yokan",
+    "Saranghae"
+   ]
+  },
+  {
+   "word": "Wo Ai Ni",
+   "pos": "phrase",
+   "category": "world",
+   "definition": "Mandarin Chinese for 'I love you'.",
+   "examples": [
+    "She texted 'wo ai ni' with a heart."
+   ],
+   "related": [
+    "Je T'aime",
+    "Ti Amo"
+   ]
+  },
+  {
+   "word": "Mahal Kita",
+   "pos": "phrase",
+   "category": "world",
+   "definition": "Filipino (Tagalog) for 'I love you'.",
+   "examples": [
+    "Mahal kita, always."
+   ],
+   "related": [
+    "Kilig",
+    "Te Amo"
+   ]
+  },
+  {
+   "word": "Hayati",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Arabic for 'my life', a deeply affectionate pet name.",
+   "examples": [
+    "Good morning, hayati."
+   ],
+   "related": [
+    "Habibi",
+    "Jaan"
+   ]
+  },
+  {
+   "word": "Anam Cara",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Irish for 'soul friend' — someone with whom you share your deepest self.",
+   "examples": [
+    "She's my anam cara."
+   ],
+   "related": [
+    "Kindred Spirit",
+    "Soulmate"
+   ]
+  },
+  {
+   "word": "Cwtch",
+   "pos": "noun / verb",
+   "category": "world",
+   "definition": "Welsh for a warm, safe cuddle or hug.",
+   "examples": [
+    "Come here and give me a cwtch."
+   ],
+   "related": [
+    "Cuddle",
+    "Comfort"
+   ]
+  },
+  {
+   "word": "Gigil",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Filipino for the overwhelming urge to squeeze something unbearably cute.",
+   "examples": [
+    "His chubby cheeks give me gigil."
+   ],
+   "related": [
+    "Kilig",
+    "Adorable"
+   ]
+  },
+  {
+   "word": "Prem",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Hindi and Sanskrit for pure love.",
+   "examples": [
+    "Their prem kahani is famous in the village."
+   ],
+   "related": [
+    "Pyaar",
+    "Prem Kahani"
+   ]
+  },
+  {
+   "word": "Prem Kahani",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Hindi for 'love story'.",
+   "examples": [
+    "Every Bollywood film is a prem kahani at heart."
+   ],
+   "related": [
+    "Prem",
+    "Romance"
+   ]
+  },
+  {
+   "word": "Prem Patra",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Hindi for 'love letter'.",
+   "examples": [
+    "He wrote her a prem patra in his best handwriting."
+   ],
+   "related": [
+    "Love Note",
+    "Billet-Doux"
+   ]
+  },
+  {
+   "word": "Dil",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Hindi and Urdu for 'heart'.",
+   "examples": [
+    "Mera dil tera hai — my heart is yours."
+   ],
+   "related": [
+    "Heart",
+    "Dil Se"
+   ]
+  },
+  {
+   "word": "Dil Se",
+   "pos": "phrase",
+   "category": "world",
+   "definition": "Hindi for 'from the heart'; sincerely.",
+   "examples": [
+    "I mean it, dil se."
+   ],
+   "related": [
+    "Heartfelt",
+    "Dil"
+   ]
+  },
+  {
+   "word": "Dilbar",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Hindi and Urdu for a beloved; one who has captured the heart.",
+   "examples": [
+    "Tu mera dilbar — you're my beloved."
+   ],
+   "related": [
+    "Dilruba",
+    "Sanam"
+   ]
+  },
+  {
+   "word": "Sanam",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Hindi and Urdu for 'beloved'.",
+   "examples": [
+    "Sanam, I'll wait for you."
+   ],
+   "related": [
+    "Dilbar",
+    "Beloved"
+   ]
+  },
+  {
+   "word": "Mehboob",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Hindi and Urdu for 'beloved'; 'mehbooba' is the feminine form.",
+   "examples": [
+    "He sang a ghazal for his mehboob."
+   ],
+   "related": [
+    "Sanam",
+    "Beloved"
+   ]
+  },
+  {
+   "word": "Humsafar",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Hindi and Urdu for 'life partner', literally 'fellow traveller'.",
+   "examples": [
+    "Be my humsafar."
+   ],
+   "related": [
+    "Partner",
+    "Soulmate"
+   ]
+  },
+  {
+   "word": "Jaaneman",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Hindi and Urdu for 'beloved', literally 'life of my life'.",
+   "examples": [
+    "Jaaneman, where were you?"
+   ],
+   "related": [
+    "Jaan",
+    "Jaanu"
+   ]
+  },
+  {
+   "word": "Saajan",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Hindi for 'beloved' or 'sweetheart', common in songs.",
+   "examples": [
+    "Old songs are full of longing for the saajan."
+   ],
+   "related": [
+    "Sanam",
+    "Sajna"
+   ]
+  },
+  {
+   "word": "Sajna",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Punjabi and Hindi for 'beloved', often in romantic songs.",
+   "examples": [
+    "Ve sajna, come home."
+   ],
+   "related": [
+    "Saajan",
+    "Sanam"
+   ]
+  },
+  {
+   "word": "Aashiq",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Hindi and Urdu for a lover, especially a devoted or passionate one.",
+   "examples": [
+    "He's a true aashiq — he'd do anything for her."
+   ],
+   "related": [
+    "Aashiqui",
+    "Ishq"
+   ]
+  },
+  {
+   "word": "Aashiqui",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Hindi and Urdu for romantic devotion or being deeply in love.",
+   "examples": [
+    "Their aashiqui was the talk of the college."
+   ],
+   "related": [
+    "Aashiq",
+    "Ishq"
+   ]
+  },
+  {
+   "word": "Deewana",
+   "pos": "adjective / noun",
+   "category": "world",
+   "definition": "Hindi and Urdu for 'crazy in love'; 'deewani' is the feminine form.",
+   "examples": [
+    "He's deewana for her."
+   ],
+   "related": [
+    "Crazy About"
+   ]
+  },
+  {
+   "word": "Chand",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Hindi for 'moon'; poetic for a beautiful beloved.",
+   "examples": [
+    "Mera chand — my moon."
+   ],
+   "related": [
+    "Sanam",
+    "Moonstruck"
+   ]
+  },
+  {
+   "word": "Shona",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Bengali for 'gold'; a common affectionate pet name.",
+   "examples": [
+    "Ki holo, shona?"
+   ],
+   "related": [
+    "Babu Shona",
+    "Jaanu"
+   ]
+  },
+  {
+   "word": "Babu Shona",
+   "pos": "noun",
+   "category": "world",
+   "definition": "A popular Indian pet name combining 'babu' (baby) and 'shona' (gold).",
+   "examples": [
+    "He saved her number as 'Babu Shona'."
+   ],
+   "related": [
+    "Shona",
+    "Jaanu"
+   ]
+  },
+  {
+   "word": "Timepass",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Indian English slang for a casual relationship that isn't serious.",
+   "examples": [
+    "Is he serious or just timepass?"
+   ],
+   "related": [
+    "Fling",
+    "Casual Dating"
+   ]
+  },
+  {
+   "word": "Propose",
+   "pos": "verb",
+   "category": "world",
+   "definition": "Indian English: to confess your love or ask someone to be your partner, not only to marry.",
+   "examples": [
+    "He finally proposed to her on Valentine's Day."
+   ],
+   "related": [
+    "Proposal",
+    "Ask Out"
+   ]
+  },
+  {
+   "word": "Setting",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Indian slang for a girlfriend or boyfriend, or an arranged romantic match.",
+   "examples": [
+    "Is she your setting?"
+   ],
+   "related": [
+    "Girlfriend",
+    "Boyfriend"
+   ]
+  },
+  {
+   "word": "Line Maarna",
+   "pos": "phrase",
+   "category": "world",
+   "definition": "Hindi slang for trying to flirt with someone.",
+   "examples": [
+    "Stop line maarna, she's not interested."
+   ],
+   "related": [
+    "Hit On",
+    "Flirt"
+   ]
+  },
+  {
+   "word": "Valentine Week",
+   "pos": "noun",
+   "category": "world",
+   "definition": "The week before Valentine's Day (Rose Day to Valentine's Day), widely celebrated in India.",
+   "examples": [
+    "Rose Day kicks off Valentine Week."
+   ],
+   "related": [
+    "Valentine's Day",
+    "Rose Day"
+   ]
+  },
+  {
+   "word": "Rose Day",
+   "pos": "noun",
+   "category": "world",
+   "definition": "February 7, the first day of Valentine Week, when people give roses.",
+   "examples": [
+    "He gave her a red rose on Rose Day."
+   ],
+   "related": [
+    "Valentine Week",
+    "Red Rose"
+   ]
+  },
+  {
+   "word": "Propose Day",
+   "pos": "noun",
+   "category": "world",
+   "definition": "February 8, the day in Valentine Week for confessing love.",
+   "examples": [
+    "She waited for Propose Day to tell him."
+   ],
+   "related": [
+    "Valentine Week",
+    "Propose"
+   ]
+  },
+  {
+   "word": "Love Guru",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Indian English: someone who gives (often unsolicited) love advice.",
+   "examples": [
+    "My friend thinks he's the college love guru."
+   ],
+   "related": [
+    "Wingman",
+    "Matchmaker"
    ]
   }
  ]
