@@ -62,9 +62,9 @@ Flirt Dictionary is free and supported by ads. Intended for users 18+.
 Dictionary · Reference · Education · Language learning · Dating
 
 ## Contact details
-- **Email:** your support email (required, shown publicly)
+- **Email:** ayushwwwg@gmail.com
 - **Website:** optional; needed later for AdMob `app-ads.txt` (e.g. a free GitHub Pages or Google Sites page that also hosts the privacy policy)
-- **Privacy policy URL:** the hosted copy of `docs/PRIVACY_POLICY.md`
+- **Privacy policy URL:** https://ayush-srivastava504.github.io/Flirt_dict/privacy-policy.html
 
 ## Graphics (in this folder)
 | File | Size | Play Console slot |

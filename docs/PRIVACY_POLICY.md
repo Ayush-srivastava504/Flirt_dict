@@ -31,4 +31,4 @@ Data held by Google Analytics is kept for the retention period configured in the
 We will post any updates to this policy at this address and change the "Last updated" date above.
 
 ## Contact
-Questions about this policy: **[your support email]**
+Questions about this policy: ayushwwwg@gmail.com
