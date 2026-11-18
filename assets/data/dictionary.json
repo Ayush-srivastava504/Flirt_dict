@@ -10781,6 +10781,1760 @@
     "Wingman",
     "Matchmaker"
    ]
+  },
+  {
+   "word": "Controlling",
+   "pos": "adjective",
+   "category": "flags",
+   "definition": "Trying to dictate a partner's choices, friends, money or movements — a serious red flag.",
+   "examples": [
+    "He was controlling about who she could text."
+   ],
+   "related": [
+    "Coercive Control",
+    "Possessive"
+   ]
+  },
+  {
+   "word": "Coercive Control",
+   "pos": "noun",
+   "category": "flags",
+   "definition": "A pattern of behaviour used to dominate a partner through monitoring, isolation, threats or humiliation; recognised as abuse in many countries.",
+   "examples": [
+    "Checking her phone daily and cutting off her friends was coercive control."
+   ],
+   "related": [
+    "Controlling",
+    "Red Flag"
+   ],
+   "note": "If you feel unsafe, contact local emergency services or a domestic-violence helpline."
+  },
+  {
+   "word": "Manipulative",
+   "pos": "adjective",
+   "category": "flags",
+   "definition": "Influencing someone unfairly or dishonestly for your own benefit.",
+   "examples": [
+    "Her manipulative guilt trips made every choice feel like a test."
+   ],
+   "related": [
+    "Gaslighting",
+    "Guilt-Tripping"
+   ]
+  },
+  {
+   "word": "Guilt-Tripping",
+   "pos": "noun",
+   "category": "flags",
+   "definition": "Making someone feel guilty to get them to do what you want.",
+   "examples": [
+    "'After everything I've done for you' is classic guilt-tripping."
+   ],
+   "related": [
+    "Manipulative",
+    "Red Flag"
+   ]
+  },
+  {
+   "word": "Silent Treatment",
+   "pos": "noun",
+   "category": "flags",
+   "definition": "Refusing to speak to someone as a punishment.",
+   "examples": [
+    "She gave him the silent treatment for three days."
+   ],
+   "related": [
+    "Stonewalling",
+    "Red Flag"
+   ]
+  },
+  {
+   "word": "Hoovering",
+   "pos": "noun",
+   "category": "flags",
+   "definition": "When a former partner tries to 'suck' you back into a relationship with promises or sudden attention.",
+   "examples": [
+    "Two months after the breakup, the hoovering began."
+   ],
+   "related": [
+    "Zombieing",
+    "Love Bombing"
+   ]
+  },
+  {
+   "word": "Trauma Bond",
+   "pos": "noun",
+   "category": "flags",
+   "definition": "A strong emotional attachment formed in a cycle of mistreatment and affection, making an unhealthy relationship hard to leave.",
+   "examples": [
+    "Therapy helped her understand the trauma bond."
+   ],
+   "related": [
+    "Codependency",
+    "Red Flag"
+   ]
+  },
+  {
+   "word": "Toxic",
+   "pos": "adjective",
+   "category": "flags",
+   "definition": "Harmful and unhealthy, especially in a relationship.",
+   "examples": [
+    "They were toxic together but couldn't let go."
+   ],
+   "related": [
+    "Toxic Relationship",
+    "Red Flag"
+   ]
+  },
+  {
+   "word": "Toxic Relationship",
+   "pos": "noun",
+   "category": "flags",
+   "definition": "A relationship that repeatedly leaves one or both people feeling drained, disrespected or unsafe.",
+   "examples": [
+    "Leaving a toxic relationship takes courage."
+   ],
+   "related": [
+    "Healthy Relationship",
+    "Toxic"
+   ]
+  },
+  {
+   "word": "Healthy Relationship",
+   "pos": "noun",
+   "category": "flags",
+   "definition": "A relationship built on respect, trust, honesty, communication and equality.",
+   "examples": [
+    "A healthy relationship gives you room to grow."
+   ],
+   "related": [
+    "Toxic Relationship",
+    "Green Flag"
+   ]
+  },
+  {
+   "word": "Respect",
+   "pos": "noun",
+   "category": "flags",
+   "definition": "Valuing someone's feelings, boundaries and opinions.",
+   "examples": [
+    "Respect is the foundation of any good relationship."
+   ],
+   "related": [
+    "Boundaries",
+    "Healthy Relationship"
+   ]
+  },
+  {
+   "word": "Communication",
+   "pos": "noun",
+   "category": "flags",
+   "definition": "Openly and honestly sharing thoughts and feelings with a partner.",
+   "examples": [
+    "Good communication solved most of their problems."
+   ],
+   "related": [
+    "Active Listening",
+    "Healthy Relationship"
+   ]
+  },
+  {
+   "word": "Honesty",
+   "pos": "noun",
+   "category": "flags",
+   "definition": "Being truthful and transparent with a partner.",
+   "examples": [
+    "Honesty, even when it's hard, builds trust."
+   ],
+   "related": [
+    "Trust",
+    "Transparency"
+   ]
+  },
+  {
+   "word": "Transparency",
+   "pos": "noun",
+   "category": "flags",
+   "definition": "Openness about your actions and intentions, with nothing hidden.",
+   "examples": [
+    "Transparency about her ex helped him feel secure."
+   ],
+   "related": [
+    "Honesty",
+    "Trust"
+   ]
+  },
+  {
+   "word": "Accountability",
+   "pos": "noun",
+   "category": "flags",
+   "definition": "Taking responsibility for your actions and their impact on others.",
+   "examples": [
+    "He showed accountability and apologised without excuses."
+   ],
+   "related": [
+    "Emotional Intelligence",
+    "Green Flag"
+   ]
+  },
+  {
+   "word": "Compromise",
+   "pos": "noun / verb",
+   "category": "flags",
+   "definition": "Each partner giving a little to reach a solution both can accept.",
+   "examples": [
+    "They compromised: beach holidays one year, mountains the next."
+   ],
+   "related": [
+    "Healthy Relationship",
+    "Communication"
+   ]
+  },
+  {
+   "word": "Self-Respect",
+   "pos": "noun",
+   "category": "flags",
+   "definition": "Valuing yourself enough to expect fair treatment.",
+   "examples": [
+    "Walking away was an act of self-respect."
+   ],
+   "related": [
+    "Self-Love",
+    "Boundaries"
+   ]
+  },
+  {
+   "word": "Self-Love",
+   "pos": "noun",
+   "category": "flags",
+   "definition": "Caring for and accepting yourself.",
+   "examples": [
+    "Self-love taught her what she deserved."
+   ],
+   "related": [
+    "Self-Respect",
+    "Dating Detox"
+   ]
+  },
+  {
+   "word": "Needing Space",
+   "pos": "phrase",
+   "category": "flags",
+   "definition": "Wanting time alone or apart, which is healthy when communicated kindly.",
+   "examples": [
+    "Needing space doesn't mean I love you less."
+   ],
+   "related": [
+    "Boundaries",
+    "Avoidant Attachment"
+   ]
+  },
+  {
+   "word": "Insecure",
+   "pos": "adjective",
+   "category": "flags",
+   "definition": "Lacking confidence, often leading to jealousy or a need for reassurance.",
+   "examples": [
+    "He felt insecure when she went out without him."
+   ],
+   "related": [
+    "Insecurity",
+    "Anxious Attachment"
+   ]
+  },
+  {
+   "word": "Insecurity",
+   "pos": "noun",
+   "category": "flags",
+   "definition": "Self-doubt or lack of confidence in yourself or a relationship.",
+   "examples": [
+    "Her insecurity showed up as constant checking in."
+   ],
+   "related": [
+    "Insecure",
+    "Reassurance"
+   ]
+  },
+  {
+   "word": "Overthinking",
+   "pos": "noun",
+   "category": "flags",
+   "definition": "Analysing every text, word or delay too much.",
+   "examples": [
+    "Overthinking his 'k' ruined her whole evening."
+   ],
+   "related": [
+    "Anxious Attachment",
+    "Read Receipts"
+   ]
+  },
+  {
+   "word": "Walking on Eggshells",
+   "pos": "phrase",
+   "category": "flags",
+   "definition": "Being very careful not to upset someone, often because they react badly.",
+   "examples": [
+    "She was always walking on eggshells around his moods."
+   ],
+   "related": [
+    "Toxic Relationship",
+    "Red Flag"
+   ]
+  },
+  {
+   "word": "Double Standards",
+   "pos": "noun",
+   "category": "flags",
+   "definition": "Applying different rules to yourself than to your partner.",
+   "examples": [
+    "He can go out, but she can't? Double standards."
+   ],
+   "related": [
+    "Red Flag",
+    "Controlling"
+   ]
+  },
+  {
+   "word": "Emotional Labour",
+   "pos": "noun",
+   "category": "flags",
+   "definition": "The often invisible work of managing feelings, plans and harmony in a relationship.",
+   "examples": [
+    "She was tired of doing all the emotional labour."
+   ],
+   "related": [
+    "Reciprocity",
+    "Communication"
+   ]
+  },
+  {
+   "word": "Kindness",
+   "pos": "noun",
+   "category": "flags",
+   "definition": "Being friendly, generous and considerate — one of the most attractive qualities.",
+   "examples": [
+    "Kindness to strangers was his biggest green flag."
+   ],
+   "related": [
+    "Green Flag",
+    "Heart of Gold"
+   ]
+  },
+  {
+   "word": "Patience",
+   "pos": "noun",
+   "category": "flags",
+   "definition": "The ability to stay calm and understanding over time.",
+   "examples": [
+    "Learning a new language for her took patience."
+   ],
+   "related": [
+    "Kindness",
+    "Healthy Relationship"
+   ]
+  },
+  {
+   "word": "Love Rat",
+   "pos": "noun",
+   "category": "flags",
+   "definition": "British slang for someone who cheats on their partner.",
+   "examples": [
+    "The tabloids called him a love rat."
+   ],
+   "related": [
+    "Cheat",
+    "Infidelity"
+   ]
+  },
+  {
+   "word": "Emoji",
+   "pos": "noun",
+   "category": "texting",
+   "definition": "A small digital image used to express emotion in messages.",
+   "examples": [
+    "One heart emoji can change your whole day."
+   ],
+   "related": [
+    "Heart Emoji",
+    "Heart Eyes"
+   ]
+  },
+  {
+   "word": "Heart Emoji",
+   "pos": "noun",
+   "category": "texting",
+   "definition": "A heart symbol in a message; the colour can hint at different feelings.",
+   "examples": [
+    "A red heart emoji means more than a yellow one."
+   ],
+   "related": [
+    "Emoji",
+    "ILY"
+   ]
+  },
+  {
+   "word": "Good Night Text",
+   "pos": "noun",
+   "category": "texting",
+   "definition": "A message sent before bed, often a sweet sign someone is thinking of you.",
+   "examples": [
+    "His good night text always made her smile."
+   ],
+   "related": [
+    "Good Morning Text",
+    "Pebbling"
+   ]
+  },
+  {
+   "word": "Voice Note",
+   "pos": "noun",
+   "category": "texting",
+   "definition": "A recorded audio message.",
+   "examples": [
+    "She sent a voice note singing happy birthday."
+   ],
+   "related": [
+    "Video Date",
+    "Pebbling"
+   ]
+  },
+  {
+   "word": "Drunk Text",
+   "pos": "noun / verb",
+   "category": "texting",
+   "definition": "A message sent while drunk, often to an ex or crush.",
+   "examples": [
+    "Never drunk text your ex."
+   ],
+   "related": [
+    "Drunk Dial",
+    "Ex"
+   ]
+  },
+  {
+   "word": "Drunk Dial",
+   "pos": "verb",
+   "category": "texting",
+   "definition": "To phone someone, often an ex, while drunk.",
+   "examples": [
+    "He drunk dialled her at 3 a.m."
+   ],
+   "related": [
+    "Drunk Text",
+    "Ex"
+   ]
+  },
+  {
+   "word": "Blue Ticks",
+   "pos": "noun",
+   "category": "texting",
+   "definition": "Indian English for read receipts in a chat app — the message has been seen.",
+   "examples": [
+    "Blue ticks but no reply for hours."
+   ],
+   "related": [
+    "Read Receipts",
+    "Left on Read"
+   ]
+  },
+  {
+   "word": "Last Seen",
+   "pos": "noun",
+   "category": "texting",
+   "definition": "A status showing when someone was last active in a chat app.",
+   "examples": [
+    "Her last seen said two minutes ago — so why no reply?"
+   ],
+   "related": [
+    "Blue Ticks",
+    "Overthinking"
+   ]
+  },
+  {
+   "word": "Unsend",
+   "pos": "verb",
+   "category": "texting",
+   "definition": "To delete a message after sending it.",
+   "examples": [
+    "He unsent the message before she could read it."
+   ],
+   "related": [
+    "Drunk Text",
+    "Double Texting"
+   ]
+  },
+  {
+   "word": "Soft Block",
+   "pos": "verb",
+   "category": "texting",
+   "definition": "To block and then unblock someone so they stop following you without being notified.",
+   "examples": [
+    "She soft-blocked her ex to clear her followers."
+   ],
+   "related": [
+    "Block",
+    "Unfollow"
+   ]
+  },
+  {
+   "word": "Block",
+   "pos": "verb",
+   "category": "texting",
+   "definition": "To stop someone from contacting you or seeing your profile.",
+   "examples": [
+    "After the rude message, she blocked him."
+   ],
+   "related": [
+    "Soft Block",
+    "Boundaries"
+   ]
+  },
+  {
+   "word": "Mute",
+   "pos": "verb",
+   "category": "texting",
+   "definition": "To hide someone's posts or messages without unfollowing them.",
+   "examples": [
+    "She muted her ex so she wouldn't see his stories."
+   ],
+   "related": [
+    "Unfollow",
+    "Block"
+   ]
+  },
+  {
+   "word": "Unfollow",
+   "pos": "verb",
+   "category": "texting",
+   "definition": "To stop following someone's social media account.",
+   "examples": [
+    "They unfollowed each other after the breakup."
+   ],
+   "related": [
+    "Mute",
+    "Block"
+   ]
+  },
+  {
+   "word": "Lurk",
+   "pos": "verb",
+   "category": "texting",
+   "definition": "To view someone's profile or posts without interacting.",
+   "examples": [
+    "I lurked his profile for ages before saying hi."
+   ],
+   "related": [
+    "Orbiting",
+    "Deep Like"
+   ]
+  },
+  {
+   "word": "Deep Like",
+   "pos": "noun",
+   "category": "texting",
+   "definition": "Accidentally liking a very old photo while scrolling through someone's profile.",
+   "examples": [
+    "Mortified — I deep-liked his photo from 2018."
+   ],
+   "related": [
+    "Lurk",
+    "Thirst Trap"
+   ]
+  },
+  {
+   "word": "Couple Selfie",
+   "pos": "noun",
+   "category": "texting",
+   "definition": "A selfie of two partners together, often shared online.",
+   "examples": [
+    "Their first couple selfie was the hard launch."
+   ],
+   "related": [
+    "Hard Launch",
+    "Facebook Official"
+   ]
+  },
+  {
+   "word": "Relationship Status",
+   "pos": "noun",
+   "category": "texting",
+   "definition": "The part of a profile saying whether someone is single, taken or otherwise.",
+   "examples": [
+    "He changed his relationship status to 'in a relationship'."
+   ],
+   "related": [
+    "Facebook Official",
+    "It's Complicated"
+   ]
+  },
+  {
+   "word": "It's Complicated",
+   "pos": "phrase",
+   "category": "texting",
+   "definition": "A vague relationship status meaning things are unclear.",
+   "examples": [
+    "When asked if they were dating, she said 'it's complicated'."
+   ],
+   "related": [
+    "Situationship",
+    "Relationship Status"
+   ]
+  },
+  {
+   "word": "Dating Profile",
+   "pos": "noun",
+   "category": "texting",
+   "definition": "Your page on a dating app, with photos, a bio and prompts.",
+   "examples": [
+    "Her dating profile mentioned three dogs."
+   ],
+   "related": [
+    "Bio",
+    "Profile Prompt"
+   ]
+  },
+  {
+   "word": "Ping",
+   "pos": "verb",
+   "category": "texting",
+   "definition": "Informal: to send someone a quick message.",
+   "examples": [
+    "Ping me when you're home safe."
+   ],
+   "related": [
+    "Double Texting",
+    "DM"
+   ]
+  },
+  {
+   "word": "Selfie",
+   "pos": "noun",
+   "category": "texting",
+   "definition": "A photo you take of yourself.",
+   "examples": [
+    "He sent a cute selfie from the beach."
+   ],
+   "related": [
+    "Thirst Trap",
+    "Couple Selfie"
+   ]
+  },
+  {
+   "word": "Heart of Stone",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "Someone who seems cold and unfeeling.",
+   "examples": [
+    "Only someone with a heart of stone wouldn't cry at that proposal."
+   ],
+   "related": [
+    "Heart of Gold"
+   ]
+  },
+  {
+   "word": "Cross My Heart",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "A promise that you are telling the truth.",
+   "examples": [
+    "I'll be there, cross my heart."
+   ],
+   "related": [
+    "Pinky Promise",
+    "Honesty"
+   ]
+  },
+  {
+   "word": "Heart-to-Heart",
+   "pos": "noun",
+   "category": "sayings",
+   "definition": "A frank, intimate conversation.",
+   "examples": [
+    "They had a long heart-to-heart over chai."
+   ],
+   "related": [
+    "Communication",
+    "Pour Your Heart Out"
+   ]
+  },
+  {
+   "word": "Kiss and Make Up",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "To end an argument and become friendly or affectionate again.",
+   "examples": [
+    "After the fight, they kissed and made up."
+   ],
+   "related": [
+    "Make Up",
+    "Reconcile"
+   ]
+  },
+  {
+   "word": "Kiss and Tell",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "To reveal private details of a romance.",
+   "examples": [
+    "He's not the kiss-and-tell type."
+   ],
+   "related": [
+    "Kiss",
+    "Honesty"
+   ]
+  },
+  {
+   "word": "Love Nest",
+   "pos": "noun",
+   "category": "sayings",
+   "definition": "A cosy home shared by a couple.",
+   "examples": [
+    "They turned the tiny flat into a love nest."
+   ],
+   "related": [
+    "Nesting",
+    "Moving In Together"
+   ]
+  },
+  {
+   "word": "Every Pot Has Its Lid",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "Everyone has a perfect match somewhere.",
+   "examples": [
+    "Don't worry, every pot has its lid."
+   ],
+   "related": [
+    "The One",
+    "Soulmate"
+   ]
+  },
+  {
+   "word": "Love You to the Moon and Back",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "A sweet way to say you love someone immensely.",
+   "examples": [
+    "Goodnight — love you to the moon and back."
+   ],
+   "related": [
+    "ILY",
+    "Love"
+   ]
+  },
+  {
+   "word": "Forever and Always",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "A promise of lasting love.",
+   "examples": [
+    "Yours, forever and always."
+   ],
+   "related": [
+    "True Love",
+    "Vows"
+   ]
+  },
+  {
+   "word": "Till Death Do Us Part",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "A traditional wedding vow promising lifelong commitment.",
+   "examples": [
+    "They meant every word of 'till death do us part'."
+   ],
+   "related": [
+    "Vows",
+    "In Sickness and in Health"
+   ]
+  },
+  {
+   "word": "In Sickness and in Health",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "A traditional wedding vow promising to stay through good and bad times.",
+   "examples": [
+    "She nursed him through it — in sickness and in health."
+   ],
+   "related": [
+    "Till Death Do Us Part",
+    "Vows"
+   ]
+  },
+  {
+   "word": "The Heart Wants What It Wants",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "You cannot always control who you fall in love with.",
+   "examples": [
+    "It made no sense, but the heart wants what it wants."
+   ],
+   "related": [
+    "Forbidden Love",
+    "Fall in Love"
+   ]
+  },
+  {
+   "word": "Love Hurts",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "Love can cause emotional pain.",
+   "examples": [
+    "Love hurts, but she'd do it all again."
+   ],
+   "related": [
+    "Heartbreak",
+    "Heartache"
+   ]
+  },
+  {
+   "word": "You Can't Hurry Love",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "Love comes in its own time.",
+   "examples": [
+    "Be patient — you can't hurry love."
+   ],
+   "related": [
+    "Patience",
+    "Slow Burn"
+   ]
+  },
+  {
+   "word": "Love Is Patient",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "True love is enduring and kind.",
+   "examples": [
+    "'Love is patient, love is kind' was read at their wedding."
+   ],
+   "related": [
+    "Patience",
+    "Unconditional Love"
+   ],
+   "note": "From 1 Corinthians 13:4, often read at weddings."
+  },
+  {
+   "word": "Faint Heart Never Won Fair Lady",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "You must be brave to win someone's love.",
+   "examples": [
+    "Go and ask her — faint heart never won fair lady."
+   ],
+   "related": [
+    "Shoot Your Shot",
+    "Making a Move"
+   ]
+  },
+  {
+   "word": "Out of Sight, Out of Mind",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "People forget those who aren't around — the opposite of 'absence makes the heart grow fonder'.",
+   "examples": [
+    "Long-distance didn't work for them; out of sight, out of mind."
+   ],
+   "related": [
+    "Absence Makes the Heart Grow Fonder"
+   ]
+  },
+  {
+   "word": "Two Hearts Beat as One",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "Two people perfectly united in love.",
+   "examples": [
+    "On their wedding day, two hearts beat as one."
+   ],
+   "related": [
+    "Soulmate",
+    "Vows"
+   ]
+  },
+  {
+   "word": "Love Makes the World Go Round",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "Love is what drives and sustains life.",
+   "examples": [
+    "Call me sentimental, but love makes the world go round."
+   ],
+   "related": [
+    "Love",
+    "Romance"
+   ]
+  },
+  {
+   "word": "On Cloud Nine",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "Extremely happy.",
+   "examples": [
+    "She's been on cloud nine since he proposed."
+   ],
+   "related": [
+    "Over the Moon",
+    "Euphoria"
+   ]
+  },
+  {
+   "word": "Walking on Air",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "Feeling extremely happy and light.",
+   "examples": [
+    "After their first date he was walking on air."
+   ],
+   "related": [
+    "On Cloud Nine",
+    "Giddy"
+   ]
+  },
+  {
+   "word": "Seventh Heaven",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "A state of perfect happiness.",
+   "examples": [
+    "With him and a good book, she's in seventh heaven."
+   ],
+   "related": [
+    "Bliss",
+    "On Cloud Nine"
+   ]
+  },
+  {
+   "word": "Worship the Ground They Walk On",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "To love and admire someone excessively.",
+   "examples": [
+    "He worships the ground she walks on."
+   ],
+   "related": [
+    "Idolize",
+    "Doting"
+   ]
+  },
+  {
+   "word": "Wedding Bells",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "A sign that a marriage is coming.",
+   "examples": [
+    "I hear wedding bells for those two!"
+   ],
+   "related": [
+    "Wedding",
+    "Engagement"
+   ]
+  },
+  {
+   "word": "Delulu Is the Solulu",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "Playful Gen Z motto: being a little delusional (optimistic) is the solution.",
+   "examples": [
+    "He'll text back, I know it. Delulu is the solulu."
+   ],
+   "related": [
+    "Delulu",
+    "Hopeless Romantic"
+   ]
+  },
+  {
+   "word": "Rom-Com",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A romantic comedy film or show.",
+   "examples": [
+    "Friday night means popcorn and a rom-com."
+   ],
+   "related": [
+    "Meet-Cute",
+    "Chick Flick"
+   ]
+  },
+  {
+   "word": "Chick Flick",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "Informal: a film aimed at women, often a romance.",
+   "examples": [
+    "They argued over a chick flick or an action movie."
+   ],
+   "related": [
+    "Rom-Com",
+    "Love Story"
+   ]
+  },
+  {
+   "word": "Love Story",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A story, film or real-life romance about two people in love.",
+   "examples": [
+    "Their love story began at a bus stop."
+   ],
+   "related": [
+    "Prem Kahani",
+    "Romance"
+   ]
+  },
+  {
+   "word": "Mills and Boon",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A British romance-novel publisher; used for any formulaic, swoony romance.",
+   "examples": [
+    "Their meeting was pure Mills and Boon."
+   ],
+   "related": [
+    "Bodice-Ripper",
+    "Love Story"
+   ]
+  },
+  {
+   "word": "Bodice-Ripper",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "Informal: a dramatic historical romance novel.",
+   "examples": [
+    "She devoured bodice-rippers every summer."
+   ],
+   "related": [
+    "Mills and Boon",
+    "Rake"
+   ]
+  },
+  {
+   "word": "Mr. Darcy",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A proud, aloof but secretly devoted romantic hero, after the hero of Jane Austen's 'Pride and Prejudice' (1813).",
+   "examples": [
+    "He's a real Mr. Darcy — cold at first, then devoted."
+   ],
+   "related": [
+    "Byronic Hero",
+    "Slow Burn"
+   ]
+  },
+  {
+   "word": "Byronic Hero",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A brooding, rebellious and passionate romantic hero, named after the poet Lord Byron.",
+   "examples": [
+    "The novel's Byronic hero is moody and magnetic."
+   ],
+   "related": [
+    "Mr. Darcy",
+    "Bad Boy"
+   ]
+  },
+  {
+   "word": "Dulcinea",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "An idealised beloved, after Don Quixote's imagined lady love.",
+   "examples": [
+    "She was his Dulcinea, perfect in his imagination."
+   ],
+   "related": [
+    "Muse",
+    "Idolize"
+   ]
+  },
+  {
+   "word": "Lovelace",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "Old-fashioned: a charming seducer, after the villain of Samuel Richardson's novel 'Clarissa' (1748).",
+   "examples": [
+    "Beware of that Lovelace."
+   ],
+   "related": [
+    "Rake",
+    "Lothario"
+   ]
+  },
+  {
+   "word": "Slow Dance",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A close, gentle dance to slow music, often romantic.",
+   "examples": [
+    "They shared a slow dance in the kitchen."
+   ],
+   "related": [
+    "First Dance",
+    "Prom"
+   ]
+  },
+  {
+   "word": "Prom",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A formal dance for high-school students, a classic romantic milestone.",
+   "examples": [
+    "He asked her to prom with a giant sign."
+   ],
+   "related": [
+    "Slow Dance",
+    "Corsage"
+   ]
+  },
+  {
+   "word": "Corsage",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A small bunch of flowers worn on a dress or wrist, traditionally given by a date.",
+   "examples": [
+    "He brought her a rose corsage for the dance."
+   ],
+   "related": [
+    "Prom",
+    "Bouquet"
+   ]
+  },
+  {
+   "word": "Love Song",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A song about romantic love.",
+   "examples": [
+    "Their love song played at the wedding."
+   ],
+   "related": [
+    "Serenade",
+    "Ballad"
+   ]
+  },
+  {
+   "word": "Ballad",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A slow, emotional song, often about love.",
+   "examples": [
+    "She sang a heartbreaking ballad."
+   ],
+   "related": [
+    "Love Song",
+    "Troubadour"
+   ]
+  },
+  {
+   "word": "Mixtape",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A personal compilation of songs made for someone, a classic romantic gesture.",
+   "examples": [
+    "He gave her a mixtape of their favourite songs."
+   ],
+   "related": [
+    "Love Song",
+    "Pebbling"
+   ]
+  },
+  {
+   "word": "Stargazing",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "Watching the stars together, a classic romantic date.",
+   "examples": [
+    "They spent the night stargazing on the roof."
+   ],
+   "related": [
+    "Moonlight",
+    "Date Night"
+   ]
+  },
+  {
+   "word": "Moonlight",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "The light of the moon, a timeless romantic setting.",
+   "examples": [
+    "They walked hand in hand in the moonlight."
+   ],
+   "related": [
+    "Moonstruck",
+    "Stargazing"
+   ]
+  },
+  {
+   "word": "Love Seat",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A small sofa made for two people.",
+   "examples": [
+    "They squeezed together on the love seat."
+   ],
+   "related": [
+    "Cuddle",
+    "Nesting"
+   ]
+  },
+  {
+   "word": "Hope Chest",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A chest in which a young woman traditionally collected items for married life.",
+   "examples": [
+    "Her hope chest held hand-embroidered linens."
+   ],
+   "related": [
+    "Trousseau",
+    "Keepsake"
+   ]
+  },
+  {
+   "word": "Love Token",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A small gift given as a sign of love.",
+   "examples": [
+    "He kept her hair ribbon as a love token."
+   ],
+   "related": [
+    "Keepsake",
+    "Locket"
+   ]
+  },
+  {
+   "word": "Pinky Promise",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "A promise sealed by linking little fingers.",
+   "examples": [
+    "Pinky promise you'll call?"
+   ],
+   "related": [
+    "Cross My Heart",
+    "Promise Ring"
+   ]
+  },
+  {
+   "word": "Couple Rings",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "Matching rings worn by a couple, popular in East Asia even before engagement.",
+   "examples": [
+    "They bought couple rings on their 100th day together."
+   ],
+   "related": [
+    "Promise Ring",
+    "Wedding Ring"
+   ]
+  },
+  {
+   "word": "Canoodle",
+   "pos": "verb",
+   "category": "classic",
+   "definition": "To kiss and cuddle affectionately.",
+   "examples": [
+    "The couple were canoodling in the back row."
+   ],
+   "related": [
+    "Cuddle",
+    "Smooch"
+   ]
+  },
+  {
+   "word": "Necking",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "Old-fashioned slang for kissing.",
+   "examples": [
+    "Teenagers necking at the drive-in."
+   ],
+   "related": [
+    "Making Out",
+    "Kiss"
+   ]
+  },
+  {
+   "word": "Making Out",
+   "pos": "phrase",
+   "category": "classic",
+   "definition": "Kissing passionately for a long time.",
+   "examples": [
+    "They were caught making out by the lockers."
+   ],
+   "related": [
+    "Kiss",
+    "French Kiss"
+   ]
+  },
+  {
+   "word": "Snog",
+   "pos": "verb / noun",
+   "category": "classic",
+   "definition": "British slang for a long kiss.",
+   "examples": [
+    "They had a snog at the bus stop."
+   ],
+   "related": [
+    "Making Out",
+    "Kiss"
+   ]
+  },
+  {
+   "word": "Lip-Lock",
+   "pos": "noun",
+   "category": "classic",
+   "definition": "Informal: a long kiss, especially in films.",
+   "examples": [
+    "The film's famous lip-lock scene."
+   ],
+   "related": [
+    "Kiss",
+    "Making Out"
+   ]
+  },
+  {
+   "word": "Chaste",
+   "pos": "adjective",
+   "category": "classic",
+   "definition": "Pure and modest, without sexual intent.",
+   "examples": [
+    "He gave her a chaste kiss on the cheek."
+   ],
+   "related": [
+    "Peck",
+    "Courtship"
+   ]
+  },
+  {
+   "word": "Heady",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Intoxicating and exciting, like new love.",
+   "examples": [
+    "Those were heady days of first romance."
+   ],
+   "related": [
+    "Euphoria",
+    "Giddy"
+   ]
+  },
+  {
+   "word": "Crushing",
+   "pos": "verb",
+   "category": "feelings",
+   "definition": "Informal: having a crush on someone right now.",
+   "examples": [
+    "I'm crushing on the new guy in accounts."
+   ],
+   "related": [
+    "Crush",
+    "Have a Crush On"
+   ]
+  },
+  {
+   "word": "Daydream",
+   "pos": "verb / noun",
+   "category": "feelings",
+   "definition": "To think pleasant thoughts, such as about someone you like, while awake.",
+   "examples": [
+    "She spent the lecture daydreaming about him."
+   ],
+   "related": [
+    "Head in the Clouds",
+    "Starry-Eyed"
+   ]
+  },
+  {
+   "word": "Awkward",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Uncomfortable or embarrassed, as on a first date.",
+   "examples": [
+    "The first silence was awkward, then they laughed."
+   ],
+   "related": [
+    "Flustered",
+    "First Date"
+   ]
+  },
+  {
+   "word": "Cringe",
+   "pos": "adjective",
+   "category": "feelings",
+   "definition": "Slang: embarrassingly awkward.",
+   "examples": [
+    "His pickup line was so cringe."
+   ],
+   "related": [
+    "Awkward",
+    "Cheesy"
+   ]
+  },
+  {
+   "word": "Comfort Person",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "Someone who makes you feel safe, calm and understood.",
+   "examples": [
+    "He's my comfort person after a hard day."
+   ],
+   "related": [
+    "Comfort",
+    "My Person"
+   ]
+  },
+  {
+   "word": "My Person",
+   "pos": "noun",
+   "category": "feelings",
+   "definition": "Your most important person — partner or best friend — who knows you best.",
+   "examples": [
+    "Through everything, she's my person."
+   ],
+   "related": [
+    "Soulmate",
+    "Comfort Person"
+   ]
+  },
+  {
+   "word": "Feels Like Home",
+   "pos": "phrase",
+   "category": "feelings",
+   "definition": "Said of someone who makes you feel safe and belonging.",
+   "examples": [
+    "Being with you feels like home."
+   ],
+   "related": [
+    "Belonging",
+    "Comfort"
+   ]
+  },
+  {
+   "word": "Ride or Die",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "A fiercely loyal partner or friend who will stand by you no matter what.",
+   "examples": [
+    "She's my ride or die."
+   ],
+   "related": [
+    "Loyal",
+    "Day One"
+   ]
+  },
+  {
+   "word": "Day One",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "Someone who has been with you since the beginning.",
+   "examples": [
+    "He's been my day one since college."
+   ],
+   "related": [
+    "Ride or Die",
+    "Loyal"
+   ]
+  },
+  {
+   "word": "Keeper",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "Someone so good you should hold on to them.",
+   "examples": [
+    "He does the dishes without asking? He's a keeper."
+   ],
+   "related": [
+    "A Catch",
+    "Boyfriend Material"
+   ]
+  },
+  {
+   "word": "Head-Turner",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "Someone so attractive people turn to look.",
+   "examples": [
+    "In that dress, she was a real head-turner."
+   ],
+   "related": [
+    "Stunner",
+    "Knockout"
+   ]
+  },
+  {
+   "word": "Knockout",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "Informal: a stunningly attractive person.",
+   "examples": [
+    "His date was a total knockout."
+   ],
+   "related": [
+    "Stunner",
+    "Bombshell"
+   ]
+  },
+  {
+   "word": "Stunner",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "A strikingly beautiful person.",
+   "examples": [
+    "The bride was an absolute stunner."
+   ],
+   "related": [
+    "Stunning",
+    "Knockout"
+   ]
+  },
+  {
+   "word": "Beauty",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "A beautiful person; also the quality of being beautiful.",
+   "examples": [
+    "She's a real beauty, inside and out."
+   ],
+   "related": [
+    "Beautiful",
+    "Heart of Gold"
+   ]
+  },
+  {
+   "word": "Total Package",
+   "pos": "noun",
+   "category": "compliments",
+   "definition": "Someone who has everything — looks, personality and kindness.",
+   "examples": [
+    "Smart, funny and kind — he's the total package."
+   ],
+   "related": [
+    "Keeper",
+    "A Catch"
+   ]
+  },
+  {
+   "word": "Heart-Stopping",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "So attractive or thrilling it seems to stop your heart.",
+   "examples": [
+    "She gave him a heart-stopping smile."
+   ],
+   "related": [
+    "Breathtaking",
+    "Stunning"
+   ]
+  },
+  {
+   "word": "Jaw-Dropping",
+   "pos": "adjective",
+   "category": "compliments",
+   "definition": "Astonishingly impressive or attractive.",
+   "examples": [
+    "His transformation was jaw-dropping."
+   ],
+   "related": [
+    "Breathtaking",
+    "Glow-Up"
+   ]
+  },
+  {
+   "word": "Charm Offensive",
+   "pos": "noun",
+   "category": "flirting",
+   "definition": "A deliberate campaign of charm to win someone over.",
+   "examples": [
+    "He launched a full charm offensive on her parents."
+   ],
+   "related": [
+    "Charm",
+    "Woo"
+   ]
+  },
+  {
+   "word": "Second Date",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "The date that follows a successful first one.",
+   "examples": [
+    "A second date means the first went well."
+   ],
+   "related": [
+    "First Date",
+    "Date"
+   ]
+  },
+  {
+   "word": "Living Apart Together",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A committed couple who choose to live in separate homes.",
+   "examples": [
+    "After retirement, they chose living apart together."
+   ],
+   "related": [
+    "Long-Term Relationship",
+    "Needing Space"
+   ]
+  },
+  {
+   "word": "Second Chance",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "An opportunity to make a relationship work after it failed before.",
+   "examples": [
+    "She gave him a second chance, and he didn't waste it."
+   ],
+   "related": [
+    "Get Back Together",
+    "Reconcile"
+   ]
+  },
+  {
+   "word": "Dating Coach",
+   "pos": "noun",
+   "category": "stages",
+   "definition": "A professional who helps people improve their dating skills and confidence.",
+   "examples": [
+    "His dating coach told him to stop leading with his job title."
+   ],
+   "related": [
+    "Love Guru",
+    "Wingman"
+   ]
+  },
+  {
+   "word": "Chocolate Day",
+   "pos": "noun",
+   "category": "world",
+   "definition": "February 9 of Valentine Week, when people give chocolates.",
+   "examples": [
+    "He left a box of truffles on Chocolate Day."
+   ],
+   "related": [
+    "Valentine Week",
+    "Propose Day"
+   ]
+  },
+  {
+   "word": "Teddy Day",
+   "pos": "noun",
+   "category": "world",
+   "definition": "February 10 of Valentine Week, when people give teddy bears.",
+   "examples": [
+    "She got a giant teddy on Teddy Day."
+   ],
+   "related": [
+    "Valentine Week",
+    "Teddy Bear"
+   ]
+  },
+  {
+   "word": "Promise Day",
+   "pos": "noun",
+   "category": "world",
+   "definition": "February 11 of Valentine Week, for making promises to a loved one.",
+   "examples": [
+    "On Promise Day he promised to call every night."
+   ],
+   "related": [
+    "Valentine Week",
+    "Pinky Promise"
+   ]
+  },
+  {
+   "word": "Hug Day",
+   "pos": "noun",
+   "category": "world",
+   "definition": "February 12 of Valentine Week, celebrating hugs.",
+   "examples": [
+    "Hug Day is his favourite."
+   ],
+   "related": [
+    "Valentine Week",
+    "Cuddle"
+   ]
+  },
+  {
+   "word": "Kiss Day",
+   "pos": "noun",
+   "category": "world",
+   "definition": "February 13 of Valentine Week, celebrating kisses.",
+   "examples": [
+    "Kiss Day comes just before Valentine's Day."
+   ],
+   "related": [
+    "Valentine Week",
+    "Kiss"
+   ]
+  },
+  {
+   "word": "Amor",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Latin, Spanish and Portuguese for 'love'.",
+   "examples": [
+    "'Amor vincit omnia' — love conquers all."
+   ],
+   "related": [
+    "Amore",
+    "Love Conquers All"
+   ]
+  },
+  {
+   "word": "Ai",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Japanese and Chinese for 'love' (愛).",
+   "examples": [
+    "The character for 'ai' was tattooed on her wrist."
+   ],
+   "related": [
+    "Aishiteru",
+    "Wo Ai Ni"
+   ]
+  },
+  {
+   "word": "Sarang",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Korean for 'love'.",
+   "examples": [
+    "'Sarang' appears in almost every K-pop love song."
+   ],
+   "related": [
+    "Saranghae"
+   ]
+  },
+  {
+   "word": "Kärlek",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Swedish for 'love'.",
+   "examples": [
+    "'Min kärlek' means 'my love'."
+   ],
+   "related": [
+    "Amor",
+    "Love"
+   ]
+  },
+  {
+   "word": "Agapi",
+   "pos": "noun",
+   "category": "world",
+   "definition": "Modern Greek for 'love'; 'agapi mou' means 'my love'.",
+   "examples": [
+    "'S'agapo, agapi mou' — I love you, my love."
+   ],
+   "related": [
+    "Agape",
+    "Amor"
+   ]
   }
  ]
 }
