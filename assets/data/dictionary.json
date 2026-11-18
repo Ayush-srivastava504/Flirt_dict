@@ -50,6 +50,11 @@
    "id": "weddings",
    "label": "Weddings & Marriage",
    "description": "Proposals, ceremonies and traditions from around the world."
+  },
+  {
+   "id": "sayings",
+   "label": "Sayings & Idioms",
+   "description": "Popular expressions and proverbs about love."
   }
  ],
  "entries": [
@@ -7763,6 +7768,1211 @@
    "related": [
     "Honeymoon",
     "Wedding"
+   ]
+  },
+  {
+   "word": "Wifey",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "Informal, affectionate word for a wife or a girlfriend you see as a future wife.",
+   "examples": [
+    "Can't make it tonight, it's date night with wifey."
+   ],
+   "related": [
+    "Hubby",
+    "Wife"
+   ]
+  },
+  {
+   "word": "Hubby",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "Informal, affectionate word for a husband.",
+   "examples": [
+    "My hubby made breakfast in bed."
+   ],
+   "related": [
+    "Wifey",
+    "Husband"
+   ]
+  },
+  {
+   "word": "Boo Thang",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "Playful slang for a boyfriend or girlfriend.",
+   "examples": [
+    "Bringing my boo thang to the party."
+   ],
+   "related": [
+    "Boo",
+    "Bae"
+   ]
+  },
+  {
+   "word": "Shawty",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "Slang, from hip-hop, for an attractive young woman or a girlfriend.",
+   "examples": [
+    "Shawty's got the best laugh."
+   ],
+   "related": [
+    "Baddie",
+    "Bae"
+   ]
+  },
+  {
+   "word": "Side Piece",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "A secret romantic partner someone sees besides their main partner.",
+   "examples": [
+    "He turned out to have a side piece."
+   ],
+   "related": [
+    "Affair",
+    "Two-Timing"
+   ]
+  },
+  {
+   "word": "Gold Digger",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "Someone who dates a person mainly for their money.",
+   "examples": [
+    "Everyone assumed she was a gold digger, but she paid for every dinner."
+   ],
+   "related": [
+    "Throning",
+    "Sugar Daddy"
+   ]
+  },
+  {
+   "word": "Sugar Daddy",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "A wealthy, usually older man who gives gifts or money to a younger partner.",
+   "examples": [
+    "The tabloids called him her sugar daddy."
+   ],
+   "related": [
+    "Gold Digger",
+    "Cougar"
+   ]
+  },
+  {
+   "word": "Cougar",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "Slang for an older woman who dates noticeably younger men.",
+   "examples": [
+    "She laughs at being called a cougar."
+   ],
+   "related": [
+    "Sugar Daddy"
+   ]
+  },
+  {
+   "word": "Player",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "Someone who dates or flirts with many people without commitment.",
+   "examples": [
+    "Watch out — he's a total player."
+   ],
+   "related": [
+    "Playboy",
+    "Heartbreaker"
+   ]
+  },
+  {
+   "word": "Playboy",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "A wealthy man who spends his time on pleasure and romantic conquests.",
+   "examples": [
+    "The playboy finally settled down at forty."
+   ],
+   "related": [
+    "Player",
+    "Casanova"
+   ]
+  },
+  {
+   "word": "Heartbreaker",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "Someone who makes many people fall in love with them and then hurts them.",
+   "examples": [
+    "That smile makes him a heartbreaker."
+   ],
+   "related": [
+    "Player",
+    "Lady-Killer"
+   ]
+  },
+  {
+   "word": "Lady-Killer",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "A man who is very attractive to women.",
+   "examples": [
+    "With those dimples, he's a real lady-killer."
+   ],
+   "related": [
+    "Ladies' Man",
+    "Heartbreaker"
+   ]
+  },
+  {
+   "word": "Ladies' Man",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "A man who enjoys and is skilled at the company of women.",
+   "examples": [
+    "Her grandfather was quite the ladies' man in his youth."
+   ],
+   "related": [
+    "Lady-Killer",
+    "Smooth Operator"
+   ]
+  },
+  {
+   "word": "Charmer",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "A person who is very charming, sometimes in a calculated way.",
+   "examples": [
+    "Careful, he's a charmer."
+   ],
+   "related": [
+    "Charm",
+    "Smooth Talker"
+   ]
+  },
+  {
+   "word": "Smooth Talker",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "Someone persuasive and flattering in conversation.",
+   "examples": [
+    "He's a smooth talker, but are his words true?"
+   ],
+   "related": [
+    "Sweet-Talk",
+    "Charmer"
+   ]
+  },
+  {
+   "word": "Tease",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "Someone who flirts playfully, sometimes without intending to follow through.",
+   "examples": [
+    "She's a tease — she'll flirt but never commit."
+   ],
+   "related": [
+    "Teasing",
+    "Push-Pull"
+   ]
+  },
+  {
+   "word": "Vibe",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "The feeling or energy between people; good chemistry.",
+   "examples": [
+    "We just had a really good vibe."
+   ],
+   "related": [
+    "Chemistry",
+    "Vibe Check"
+   ]
+  },
+  {
+   "word": "Vibe Check",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "Assessing someone's mood or energy, e.g. on a first date.",
+   "examples": [
+    "First coffee was a vibe check — he passed."
+   ],
+   "related": [
+    "Vibe",
+    "First Date"
+   ]
+  },
+  {
+   "word": "Click",
+   "pos": "verb",
+   "category": "slang",
+   "definition": "To get along immediately and naturally with someone.",
+   "examples": [
+    "We clicked from the first message."
+   ],
+   "related": [
+    "Hit It Off",
+    "Chemistry"
+   ]
+  },
+  {
+   "word": "Hit It Off",
+   "pos": "phrase",
+   "category": "slang",
+   "definition": "To get on well with someone straight away.",
+   "examples": [
+    "They hit it off at the wedding."
+   ],
+   "related": [
+    "Click",
+    "Chemistry"
+   ]
+  },
+  {
+   "word": "Out of Your League",
+   "pos": "phrase",
+   "category": "slang",
+   "definition": "Seen as too attractive or impressive for you to date.",
+   "examples": [
+    "Everyone said she was out of his league — she disagreed."
+   ],
+   "related": [
+    "Punch Above Your Weight",
+    "A Catch"
+   ]
+  },
+  {
+   "word": "Punch Above Your Weight",
+   "pos": "phrase",
+   "category": "slang",
+   "definition": "To date someone seen as more attractive or successful than you.",
+   "examples": [
+    "He knows he's punching above his weight."
+   ],
+   "related": [
+    "Out of Your League"
+   ]
+  },
+  {
+   "word": "Pink Flag",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "A small warning sign — not serious enough to be a red flag, but worth noticing.",
+   "examples": [
+    "He's always ten minutes late. Pink flag."
+   ],
+   "related": [
+    "Red Flag",
+    "Beige Flag"
+   ]
+  },
+  {
+   "word": "Cutie Pie",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "An affectionate term for a cute person.",
+   "examples": [
+    "Thanks, cutie pie!"
+   ],
+   "related": [
+    "Cutie",
+    "Sweetie"
+   ]
+  },
+  {
+   "word": "Heart Eyes",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "A look of obvious adoration, from the heart-eyed emoji.",
+   "examples": [
+    "He had heart eyes for her all night."
+   ],
+   "related": [
+    "Smitten",
+    "Starry-Eyed"
+   ]
+  },
+  {
+   "word": "Rizz Check",
+   "pos": "noun",
+   "category": "slang",
+   "definition": "A playful test of someone's flirting skills.",
+   "examples": [
+    "Rizz check: get her number in one line."
+   ],
+   "related": [
+    "Rizz",
+    "Rizzler"
+   ]
+  },
+  {
+   "word": "Situationshipped",
+   "pos": "adjective",
+   "category": "slang",
+   "definition": "Stuck in an undefined relationship without clear labels.",
+   "examples": [
+    "I've been situationshipped for six months."
+   ],
+   "related": [
+    "Situationship",
+    "DTR"
+   ]
+  },
+  {
+   "word": "Lovebombed",
+   "pos": "adjective",
+   "category": "slang",
+   "definition": "Having been overwhelmed with excessive early affection.",
+   "examples": [
+    "I got lovebombed, then dropped."
+   ],
+   "related": [
+    "Love Bombing",
+    "Mosting"
+   ]
+  },
+  {
+   "word": "Swipe Left",
+   "pos": "phrase",
+   "category": "texting",
+   "definition": "To reject someone's profile on a dating app.",
+   "examples": [
+    "His bio was all gym selfies — swipe left."
+   ],
+   "related": [
+    "Swipe Right",
+    "Dating App"
+   ]
+  },
+  {
+   "word": "ILY",
+   "pos": "abbreviation",
+   "category": "texting",
+   "definition": "Short for 'I love you'; 'ILYSM' means 'I love you so much'.",
+   "examples": [
+    "Have a good day, ily!"
+   ],
+   "related": [
+    "Je T'aime",
+    "XOXO"
+   ]
+  },
+  {
+   "word": "XOXO",
+   "pos": "abbreviation",
+   "category": "texting",
+   "definition": "Hugs and kisses, used to sign off a loving message.",
+   "examples": [
+    "See you soon, xoxo."
+   ],
+   "related": [
+    "ILY",
+    "Kiss"
+   ]
+  },
+  {
+   "word": "LDR",
+   "pos": "abbreviation",
+   "category": "texting",
+   "definition": "Short for long-distance relationship.",
+   "examples": [
+    "LDR life: three time zones and endless video calls."
+   ],
+   "related": [
+    "Long-Distance Relationship",
+    "Video Date"
+   ]
+  },
+  {
+   "word": "BF",
+   "pos": "abbreviation",
+   "category": "texting",
+   "definition": "Short for boyfriend; 'GF' means girlfriend.",
+   "examples": [
+    "Going to the movies with my bf."
+   ],
+   "related": [
+    "Boyfriend",
+    "Girlfriend"
+   ]
+  },
+  {
+   "word": "SO",
+   "pos": "abbreviation",
+   "category": "texting",
+   "definition": "Short for significant other.",
+   "examples": [
+    "Bring your SO to the barbecue!"
+   ],
+   "related": [
+    "Significant Other",
+    "Partner"
+   ]
+  },
+  {
+   "word": "DM",
+   "pos": "noun / verb",
+   "category": "texting",
+   "definition": "A direct message on social media, or to send one.",
+   "examples": [
+    "He DMed her after the concert."
+   ],
+   "related": [
+    "Slide into the DMs",
+    "Story Reply"
+   ]
+  },
+  {
+   "word": "U Up",
+   "pos": "phrase",
+   "category": "texting",
+   "definition": "A late-night text asking if someone is awake, often with flirty intent.",
+   "examples": [
+    "A 'u up?' at 2 a.m. isn't romance."
+   ],
+   "related": [
+    "WYD",
+    "Red Flag"
+   ]
+  },
+  {
+   "word": "Eye Contact",
+   "pos": "noun",
+   "category": "flirting",
+   "definition": "Looking directly into someone's eyes, a powerful signal of interest.",
+   "examples": [
+    "Holding eye contact a little longer says 'I like you'."
+   ],
+   "related": [
+    "Lingering Gaze",
+    "Make Eyes At"
+   ]
+  },
+  {
+   "word": "Body Language",
+   "pos": "noun",
+   "category": "flirting",
+   "definition": "Nonverbal signals such as posture, gestures and facial expressions.",
+   "examples": [
+    "Her body language said she was enjoying the conversation."
+   ],
+   "related": [
+    "Open Body Language",
+    "Mirroring"
+   ]
+  },
+  {
+   "word": "Flirtatious",
+   "pos": "adjective",
+   "category": "flirting",
+   "definition": "Behaving in a playful way that shows romantic interest.",
+   "examples": [
+    "He sent a flirtatious wink across the table."
+   ],
+   "related": [
+    "Flirt",
+    "Teasing"
+   ]
+  },
+  {
+   "word": "Flirtation",
+   "pos": "noun",
+   "category": "flirting",
+   "definition": "Playful behaviour showing romantic interest, or a brief romantic interest itself.",
+   "examples": [
+    "It was a harmless flirtation at the conference."
+   ],
+   "related": [
+    "Flirt",
+    "Coquetry"
+   ]
+  },
+  {
+   "word": "Inside Joke",
+   "pos": "noun",
+   "category": "flirting",
+   "definition": "A joke only the two of you understand, which builds closeness.",
+   "examples": [
+    "'Emergency penguin' became their inside joke."
+   ],
+   "related": [
+    "Callback Humour",
+    "Banter"
+   ]
+  },
+  {
+   "word": "Demure",
+   "pos": "adjective",
+   "category": "flirting",
+   "definition": "Modest, reserved and shy in a charming way.",
+   "examples": [
+    "She gave a demure smile and looked away."
+   ],
+   "related": [
+    "Coy",
+    "Bashful"
+   ]
+  },
+  {
+   "word": "Sultry",
+   "pos": "adjective",
+   "category": "flirting",
+   "definition": "Attractive in a passionate, smouldering way.",
+   "examples": [
+    "She sang in a low, sultry voice."
+   ],
+   "related": [
+    "Seductive",
+    "Allure"
+   ]
+  },
+  {
+   "word": "Seductive",
+   "pos": "adjective",
+   "category": "flirting",
+   "definition": "Very attractive and tempting.",
+   "examples": [
+    "The perfume had a seductive scent."
+   ],
+   "related": [
+    "Seduce",
+    "Sultry"
+   ]
+  },
+  {
+   "word": "Seduce",
+   "pos": "verb",
+   "category": "flirting",
+   "definition": "To attract someone romantically, often deliberately and persuasively.",
+   "examples": [
+    "In the novel, the count tries to seduce the duchess."
+   ],
+   "related": [
+    "Seduction",
+    "Woo"
+   ]
+  },
+  {
+   "word": "Seduction",
+   "pos": "noun",
+   "category": "flirting",
+   "definition": "The act of attracting or tempting someone romantically.",
+   "examples": [
+    "The film is a slow game of seduction."
+   ],
+   "related": [
+    "Seduce",
+    "Allure"
+   ]
+  },
+  {
+   "word": "Temptation",
+   "pos": "noun",
+   "category": "flirting",
+   "definition": "A strong desire to do something you know you perhaps shouldn't.",
+   "examples": [
+    "Seeing her again was a temptation he couldn't resist."
+   ],
+   "related": [
+    "Seduction",
+    "Forbidden Love"
+   ]
+  },
+  {
+   "word": "Come-Hither Look",
+   "pos": "noun",
+   "category": "flirting",
+   "definition": "A flirtatious glance that invites someone closer.",
+   "examples": [
+    "She gave him a come-hither look from the dance floor."
+   ],
+   "related": [
+    "Bedroom Eyes",
+    "Make Eyes At"
+   ]
+  },
+  {
+   "word": "Bedroom Eyes",
+   "pos": "noun",
+   "category": "flirting",
+   "definition": "A sleepy, sultry look suggesting romantic interest.",
+   "examples": [
+    "He had dark hair and bedroom eyes."
+   ],
+   "related": [
+    "Come-Hither Look",
+    "Sultry"
+   ]
+  },
+  {
+   "word": "Play the Field",
+   "pos": "phrase",
+   "category": "flirting",
+   "definition": "To date several people without committing to one.",
+   "examples": [
+    "He's young and still playing the field."
+   ],
+   "related": [
+    "Casual Dating",
+    "Roster"
+   ]
+  },
+  {
+   "word": "Make a Pass",
+   "pos": "phrase",
+   "category": "flirting",
+   "definition": "To make a romantic advance toward someone.",
+   "examples": [
+    "He made a pass at her at the office party."
+   ],
+   "related": [
+    "Hit On",
+    "Making a Move"
+   ]
+  },
+  {
+   "word": "Steal a Kiss",
+   "pos": "phrase",
+   "category": "flirting",
+   "definition": "To kiss someone quickly and playfully, often by surprise.",
+   "examples": [
+    "He stole a kiss before the train left."
+   ],
+   "related": [
+    "Kiss",
+    "Peck"
+   ]
+  },
+  {
+   "word": "Blow a Kiss",
+   "pos": "phrase",
+   "category": "flirting",
+   "definition": "To kiss your hand and blow it toward someone as an affectionate gesture.",
+   "examples": [
+    "She blew him a kiss from the balcony."
+   ],
+   "related": [
+    "Kiss",
+    "Wink"
+   ]
+  },
+  {
+   "word": "Pick-Up Artist",
+   "pos": "noun",
+   "category": "flirting",
+   "definition": "Someone who uses rehearsed techniques to attract partners; often seen as manipulative.",
+   "examples": [
+    "Real confidence beats any pick-up artist trick."
+   ],
+   "related": [
+    "Pickup Line",
+    "Negging"
+   ]
+  },
+  {
+   "word": "Physical Touch",
+   "pos": "noun",
+   "category": "flirting",
+   "definition": "One of the five love languages: feeling loved through hugs, hand-holding and closeness.",
+   "examples": [
+    "His love language is physical touch — always reaching for her hand."
+   ],
+   "related": [
+    "Love Languages",
+    "Cuddle"
+   ]
+  },
+  {
+   "word": "Words of Affirmation",
+   "pos": "noun",
+   "category": "flirting",
+   "definition": "One of the five love languages: feeling loved through praise and kind words.",
+   "examples": [
+    "A heartfelt note means everything to someone whose love language is words of affirmation."
+   ],
+   "related": [
+    "Love Languages",
+    "Compliment"
+   ]
+  },
+  {
+   "word": "Acts of Service",
+   "pos": "noun",
+   "category": "flirting",
+   "definition": "One of the five love languages: feeling loved when someone does helpful things for you.",
+   "examples": [
+    "Filling up her car was his act of service."
+   ],
+   "related": [
+    "Love Languages",
+    "Thoughtful"
+   ]
+  },
+  {
+   "word": "Receiving Gifts",
+   "pos": "noun",
+   "category": "flirting",
+   "definition": "One of the five love languages: feeling loved through thoughtful presents.",
+   "examples": [
+    "For her, receiving gifts isn't about price but thought."
+   ],
+   "related": [
+    "Love Languages",
+    "Keepsake"
+   ]
+  },
+  {
+   "word": "Coquetry",
+   "pos": "noun",
+   "category": "flirting",
+   "definition": "Flirtatious behaviour meant to attract admiration.",
+   "examples": [
+    "Her coquetry charmed the whole ballroom."
+   ],
+   "related": [
+    "Coquette",
+    "Flirtation"
+   ]
+  },
+  {
+   "word": "Gallantry",
+   "pos": "noun",
+   "category": "flirting",
+   "definition": "Polite, attentive behaviour toward someone you admire.",
+   "examples": [
+    "His gallantry was old-fashioned but sweet."
+   ],
+   "related": [
+    "Gallant",
+    "Chivalry"
+   ]
+  },
+  {
+   "word": "Plenty of Fish in the Sea",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "There are many other people to date — said to comfort someone after rejection.",
+   "examples": [
+    "Don't cry over him; there are plenty of fish in the sea."
+   ],
+   "related": [
+    "Rejection",
+    "Breakup"
+   ]
+  },
+  {
+   "word": "Absence Makes the Heart Grow Fonder",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "Being apart from someone can make you love them more.",
+   "examples": [
+    "Their long-distance year proved absence makes the heart grow fonder."
+   ],
+   "related": [
+    "Long-Distance Relationship",
+    "Longing"
+   ]
+  },
+  {
+   "word": "All's Fair in Love and War",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "In love, as in war, people may behave in ways normally considered unfair.",
+   "examples": [
+    "He bought her favourite flowers before his rival could — all's fair in love and war."
+   ],
+   "related": [
+    "Love Triangle"
+   ]
+  },
+  {
+   "word": "Opposites Attract",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "People with very different personalities are often drawn to each other.",
+   "examples": [
+    "She's loud, he's quiet — opposites attract."
+   ],
+   "related": [
+    "Chemistry",
+    "Attraction"
+   ]
+  },
+  {
+   "word": "Love Conquers All",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "Love can overcome any obstacle.",
+   "examples": [
+    "Despite every obstacle, love conquers all."
+   ],
+   "related": [
+    "True Love",
+    "Forbidden Love"
+   ],
+   "note": "From Virgil's Latin 'omnia vincit amor'."
+  },
+  {
+   "word": "Love Is Blind",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "People in love often fail to see each other's faults.",
+   "examples": [
+    "Love is blind — she thinks his snoring is cute."
+   ],
+   "related": [
+    "Starry-Eyed",
+    "Infatuation"
+   ]
+  },
+  {
+   "word": "Love Is in the Air",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "Romance seems to be happening all around.",
+   "examples": [
+    "It's spring and love is in the air."
+   ],
+   "related": [
+    "Romance",
+    "Cuffing Season"
+   ]
+  },
+  {
+   "word": "Head Over Heels in Love",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "Completely and joyfully in love.",
+   "examples": [
+    "Within a month they were head over heels in love."
+   ],
+   "related": [
+    "Head Over Heels",
+    "Smitten"
+   ]
+  },
+  {
+   "word": "Love Me, Love My Dog",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "If you love someone, you must accept everything that comes with them.",
+   "examples": [
+    "His mother lives with us — love me, love my dog."
+   ],
+   "related": [
+    "Unconditional Love"
+   ]
+  },
+  {
+   "word": "The Way to a Man's Heart Is Through His Stomach",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "Cooking good food for someone is a way to win their love.",
+   "examples": [
+    "She made his favourite biryani; the way to a man's heart is through his stomach."
+   ],
+   "related": [
+    "Woo",
+    "Acts of Service"
+   ]
+  },
+  {
+   "word": "It Takes Two to Tango",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "Both people share responsibility in a relationship or conflict.",
+   "examples": [
+    "Don't blame only him — it takes two to tango."
+   ],
+   "related": [
+    "Reciprocity",
+    "Couple"
+   ]
+  },
+  {
+   "word": "Better to Have Loved and Lost",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "It is better to experience love, even if it ends, than never to love at all.",
+   "examples": [
+    "It hurt, but it's better to have loved and lost."
+   ],
+   "related": [
+    "Heartbreak",
+    "First Love"
+   ],
+   "note": "From Tennyson: 'Tis better to have loved and lost than never to have loved at all.'"
+  },
+  {
+   "word": "Hell Hath No Fury Like a Woman Scorned",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "A person rejected in love can react with great anger.",
+   "examples": [
+    "After he cheated, she sold his guitar. Hell hath no fury."
+   ],
+   "related": [
+    "Breakup"
+   ]
+  },
+  {
+   "word": "Love at First Swipe",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "A playful modern twist on love at first sight, for dating apps.",
+   "examples": [
+    "It was love at first swipe."
+   ],
+   "related": [
+    "Love at First Sight",
+    "Swipe Right"
+   ]
+  },
+  {
+   "word": "Cupid's Arrow",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "The sudden experience of falling in love, from Cupid's love-causing arrows.",
+   "examples": [
+    "Cupid's arrow struck at the coffee shop."
+   ],
+   "related": [
+    "Cupid",
+    "Love at First Sight"
+   ]
+  },
+  {
+   "word": "Lovers' Quarrel",
+   "pos": "noun",
+   "category": "sayings",
+   "definition": "A minor argument between people in love.",
+   "examples": [
+    "Ignore them, it's just a lovers' quarrel."
+   ],
+   "related": [
+    "Make Up",
+    "Couple"
+   ]
+  },
+  {
+   "word": "Match Made in Heaven",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "A couple who are perfectly suited to each other.",
+   "examples": [
+    "Two bookworms who love chai — a match made in heaven."
+   ],
+   "related": [
+    "Soulmate",
+    "Couple Goals"
+   ]
+  },
+  {
+   "word": "Love Will Find a Way",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "Love overcomes difficulties and obstacles.",
+   "examples": [
+    "Different cities, different countries — love will find a way."
+   ],
+   "related": [
+    "Love Conquers All",
+    "Long-Distance Relationship"
+   ]
+  },
+  {
+   "word": "Two Peas in a Pod",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "Two people who are very alike or always together.",
+   "examples": [
+    "Those two are like two peas in a pod."
+   ],
+   "related": [
+    "Inseparable",
+    "Kindred Spirit"
+   ]
+  },
+  {
+   "word": "Chemistry Can't Be Faked",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "Real attraction is either there or it isn't.",
+   "examples": [
+    "They looked perfect on paper, but chemistry can't be faked."
+   ],
+   "related": [
+    "Chemistry",
+    "Spark"
+   ]
+  },
+  {
+   "word": "Butterflies in Your Stomach",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "A fluttery, nervous feeling caused by excitement or attraction.",
+   "examples": [
+    "I still get butterflies in my stomach before our dates."
+   ],
+   "related": [
+    "Butterflies",
+    "Giddy"
+   ]
+  },
+  {
+   "word": "Puppy Dog Love",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "Young, innocent and intense love.",
+   "examples": [
+    "It was puppy dog love, but they still talk about it."
+   ],
+   "related": [
+    "Puppy Love",
+    "Calf Love"
+   ]
+  },
+  {
+   "word": "Head in the Clouds",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "Daydreaming and distracted, often because of love.",
+   "examples": [
+    "Since meeting him, she's had her head in the clouds."
+   ],
+   "related": [
+    "Starry-Eyed",
+    "Moonstruck"
+   ]
+  },
+  {
+   "word": "Fall Head Over Heels",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "To fall deeply and suddenly in love.",
+   "examples": [
+    "I fell head over heels on our first trip together."
+   ],
+   "related": [
+    "Head Over Heels",
+    "Fall in Love"
+   ]
+  },
+  {
+   "word": "Lose Your Heart",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "To fall in love with someone.",
+   "examples": [
+    "She lost her heart to a musician in Kolkata."
+   ],
+   "related": [
+    "Fall in Love",
+    "Steal Someone's Heart"
+   ]
+  },
+  {
+   "word": "Have a Crush On",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "To be attracted to someone, often secretly.",
+   "examples": [
+    "I've had a crush on him since college."
+   ],
+   "related": [
+    "Crush",
+    "Sweet On"
+   ]
+  },
+  {
+   "word": "Pour Your Heart Out",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "To tell someone all your deepest feelings.",
+   "examples": [
+    "She poured her heart out in a letter."
+   ],
+   "related": [
+    "Vulnerability",
+    "Heartfelt"
+   ]
+  },
+  {
+   "word": "Break Someone's Heart",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "To deeply hurt someone you have a romantic relationship with.",
+   "examples": [
+    "He broke her heart when he moved abroad."
+   ],
+   "related": [
+    "Heartbreak",
+    "Heartbreaker"
+   ]
+  },
+  {
+   "word": "Mend a Broken Heart",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "To recover from heartbreak.",
+   "examples": [
+    "Time and friends helped mend her broken heart."
+   ],
+   "related": [
+    "Heartbreak",
+    "Glow-Up"
+   ]
+  },
+  {
+   "word": "Love Bug",
+   "pos": "noun",
+   "category": "sayings",
+   "definition": "The feeling of being suddenly and contagiously in love, as in 'bitten by the love bug'.",
+   "examples": [
+    "Looks like he's been bitten by the love bug."
+   ],
+   "related": [
+    "Smitten",
+    "Lovestruck"
+   ]
+  },
+  {
+   "word": "Crazy About",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "Extremely fond of or in love with someone.",
+   "examples": [
+    "I'm crazy about you."
+   ],
+   "related": [
+    "Wild About",
+    "Gaga"
+   ]
+  },
+  {
+   "word": "Hold a Candle To",
+   "pos": "phrase",
+   "category": "sayings",
+   "definition": "To compare favourably with someone; usually in the negative.",
+   "examples": [
+    "No one else can hold a candle to her."
+   ],
+   "related": [
+    "Love of My Life"
+   ]
+  },
+  {
+   "word": "Lovey-Dovey Couple",
+   "pos": "noun",
+   "category": "sayings",
+   "definition": "A couple who are openly and sentimentally affectionate.",
+   "examples": [
+    "The lovey-dovey couple next door hold hands everywhere."
+   ],
+   "related": [
+    "Lovey-Dovey",
+    "Lovebirds"
    ]
   }
  ]
